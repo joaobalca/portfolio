@@ -1,0 +1,32 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "I am a dedicated Web Developer specializing in creating dynamic and responsive web applications using Vue.Js and React.js. I am passionate about leveraging technology to solve real-world problems. Always eager for new challenges, I thrive in collaborative team environments."
+        },
+
+        "es": {
+            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
+            "welcomeShort": "¡Saludos!",
+            "bio": "Soy un Desarrollador Web especializado en la creación de aplicaciones web dinámicas y receptivas utilizando Vue.Js y React.js. Me apasiona aprovechar la tecnología para resolver problemas del mundo real. Siempre ansioso por nuevos desafíos, prospero en entornos de equipo colaborativos."
+        },
+
+        "pt": {
+            "welcome": "Bem-vindo(a) ao meu <span class='text-primary'>Currículo!</span>",
+            "welcomeShort": "Bem-vindo!",
+            "bio": "Sou um Desenvolvedor Web dedicado especializado na criação de aplicações web dinâmicas e responsivas utilizando Vue.Js e React.js. Sou apaixonado por alavancar a tecnologia para resolver problemas do mundo real. Sempre ansioso por novos desafios, prospero em ambientes de equipe colaborativos."
+        }
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.email}"
+        ]
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        },
+        "es": {
+            "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+            "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:"
+        },
+        "pt": {
+            "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+            "description": "Explorando a diversidade de habilidades que adquiri e desenvolvi:"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "abilities",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {"title": null}
+            }
+        },
+
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "en": {"title": "Programming"},
+                "es": {"title": "Programación"},
+                "pt": {"title": "Programação"}
+            }
+        },
+
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
+            "faIcon": "fa fa-language",
+            "locales": {
+                "en": {"title": "Languages"},
+                "es": {"title": "Idiomas"},
+                "pt": {"title": "Idiomas"}
+            }
+        },
+
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {"title": "Bonus Skills"},
+                "es": {"title": "Habilidades Adicionales"},
+                "pt": {"title": "Habilidades Adicionais"}
+            }
+        }
+    ],
+
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-mobile-alt",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Responsive Design",
+                        "description": "Proficient in creating layouts that adapt seamlessly to different devices and screen sizes for an optimal user experience."
+                    },
+                    "es": {
+                        "title": "Diseño Responsivo",
+                        "description": "Competente para crear diseños adaptables para diversos dispositivos, asegurando una experiencia de usuario óptima."
+                    },
+                    "pt": {
+                        "title": "Design Responsivo",
+                        "description": "Competente em criar layouts que se adaptam perfeitamente a diferentes dispositivos e tamanhos de tela para uma experiência de usuário ideal."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-paint-roller",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "JavaScript & Frameworks",
+                        "description": "Skilled in JavaScript and modern frameworks (Vue.js, React) to build dynamic, interactive user interfaces."
+                    },
+                    "es": {
+                        "title": "JavaScript y Frameworks",
+                        "description": "Habilidad en JavaScript y frameworks modernos (Vue.js, React) para construir interfaces de usuario dinámicas e interactivas."
+                    },
+                    "pt": {
+                        "title": "JavaScript e Frameworks",
+                        "description": "Competente em JavaScript e frameworks modernos (Vue.js, React) para construir interfaces de usuário dinâmicas e interativas."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-vector-square",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Component-Based Architecture",
+                        "description": "Knowledgeable in building reusable UI components, enhancing consistency and maintainability across applications."
+                    },
+                    "es": {
+                        "title": "Arquitectura Basada en Componentes",
+                        "description": "Conocimiento en la construcción de componentes de interfaz de usuario reutilizables, mejorando la consistencia y mantenibilidad en las aplicaciones."
+                    },
+                    "pt": {
+                        "title": "Arquitetura Baseada em Componentes",
+                        "description": "Conhecimento na construção de componentes de interface do usuário reutilizáveis, melhorando a consistência e a manutenibilidade em aplicações."
+                    }
+                    
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-check-double",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Cross-Browser Compatibility",
+                        "description": "Ensuring consistent functionality and appearance across major browsers through testing and adjustments."
+                    },
+                    "es": {
+                        "title": "Compatibilidad entre Navegadores",
+                        "description": "Asegurando funcionalidad y apariencia consistentes en los principales navegadores mediante pruebas y ajustes."
+                    },
+                    "pt": {
+                        "title": "Compatibilidade entre Navegadores",
+                        "description": "Garantindo funcionalidade e aparência consistentes nos principais navegadores por meio de testes e ajustes."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-expand-arrows-alt",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "API Collaboration & Mocking",
+                        "description": "Proficient in using Postman to create mock APIs, enabling effective collaboration with backend developers to discuss and refine API structures during the development process."
+                    },
+                    "es": {
+                        "title": "Colaboración y Simulación de API",
+                        "description": "Competente en el uso de Postman para crear APIs simuladas, permitiendo una colaboración efectiva con los desarrolladores de backend para discutir y perfeccionar las estructuras de API durante el proceso de desarrollo."
+                    },
+                    "pt": {
+                        "title": "Colaboração e Simulação de API",
+                        "description": "Competente no uso do Postman para criar APIs simuladas, permitindo uma colaboração eficaz com os desenvolvedores de backend para discutir e aprimorar as estruturas de API durante o processo de desenvolvimento."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-laptop-code",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "CSS & Preprocessing",
+                        "description": "Experienced in styling with CSS, including preprocessors like SASS, and frameworks like Bootstrap and Tailwind, to create maintainable and scalable styles."
+                    },
+                    "es": {
+                        "title": "CSS y Preprocesamiento",
+                        "description": "Experimentado en estilizar con CSS, incluyendo preprocesadores como SASS, y frameworks como Bootstrap y Tailwind, para crear estilos mantenibles y escalables."
+                    },
+                    "pt": {
+                        "title": "CSS e Pré-processamento",
+                        "description": "Experiente em estilizar com CSS, incluindo preprocessadores como SASS, e frameworks como Bootstrap e Tailwind, para criar estilos mantíveis e escaláveis."
+                    }
+                }
+            }
+        ],
+
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-html5",
+                "value": 95,
+                "locales": {
+                    "en": {"title": "HTML 5", "description": "Experience Time: 5 years"},
+                    "es": {"title": "HTML 5", "description": "Experiencia: 5 años"},
+                    "pt": {"title": "HTML 5", "description": "Experiência: 5 anos"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-css3-alt",
+                "value": 90,
+                "locales": {
+                    "en": {"title": "CSS 3", "description": "Experience Time: 3 years"},
+                    "es": {"title": "CSS 3", "description": "Experiencia: 3 años"},
+                    "pt": {"title": "CSS 3", "description": "Experiência: 3 anos"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-sass",
+                "value": 65,
+                "locales": {
+                    "en": {"title": "Sass/Less", "description": "Experience Time: 2 years"},
+                    "es": {"title": "Sass/Less", "description": "Experiencia: 2 años"},
+                    "pt": {"title": "Sass/Less", "description": "Experiência: 2 anos"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 85,
+                "locales": {
+                    "en": {"title": "JavaScript", "description": "Experience Time: 3 years"},
+                    "es": {"title": "JavaScript", "description": "Experiencia: 3 años"},
+                    "pt": {"title": "JavaScript", "description": "Experiência: 3 anos"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 100,
+                "locales": {
+                    "en": {"title": "Vue 3", "description": "Experience Time: 2 years"},
+                    "es": {"title": "Vue 3", "description": "Experiencia: 2 años"},
+                    "pt": {"title": "Vue 3", "description": "Experiência: 2 anos"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-react",
+                "value": 75,
+                "locales": {
+                    "en": {"title": "React", "description": "Nanodegree in React development (Udacity)<br>Experience time: 1 year"},
+                    "es": {"title": "React", "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"},
+                    "pt": {"title": "React", "description": "Nanodegree em desenvolvimento React (Udacity)<br>Experiência: 1 ano"}
+                }
+            }
+        ],
+
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/pt.png",
+                "faIcon": null,
+                "value": 100,
+                "locales": {
+                    "en": {"title": "Portuguese", "description": "Native speaker with excellent communication and writing skills."},
+                    "es": {"title": "Portugués", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."},
+                    "pt": {"title": "Português", "description": "Falante nativo com excelentes habilidades de comunicação e escrita."}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 90,
+                "locales": {
+                    "en": {"title": "English", "description": "Fluent in both spoken and written English; confident in professional communication."},
+                    "es": {"title": "Inglés", "description": "Fluido en inglés hablado y escrito; seguro en la comunicación profesional."},
+                    "pt": {"title": "Inglês", "description": "Fluente em inglês falado e escrito; confiante na comunicação profissional."}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/es.png",
+                "faIcon": null,
+                "value": 40,
+                "locales": {
+                    "en": {"title": "Spanish", "description": "Intermediate proficiency in Spanish language; can hold conversations and understand written text."},
+                    "es": {"title": "Español", "description": "Competencia intermedia en el idioma español; puede mantener conversaciones y entender textos escritos."},
+                    "pt": {"title": "Espanhol", "description": "Proficiência intermediária no idioma espanhol; pode manter conversas e entender textos escritos."}
+                }
+            }
+        ],
+
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "User Interface (UI) Design", "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."},
+                    "es": {"title": "Diseño de Interfaz de Usuario (UI)", "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."},
+                    "fr": {"title": "Design d'Interface Utilisateur (UI)", "description": "Capable de concevoir des interfaces utilisateur intuitives et visuellement attrayantes pour des interactions utilisateur fluides."},
+                    "zh": {"title": "用户界面（UI）设计", "description": "能够设计直观且视觉吸引力强的用户界面，以实现无缝用户交互。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Front-End Development", "description": "Able to code in VueJS, React JS, Swift, AngularJS and TypeScript."},
+                    "es": {"title": "Desarrollo Front-End", "description": "Capaz de codificar en VueJS, AngularJS y TypeScript."},
+                    "fr": {"title": "Développement Front-End", "description": "Capable de coder en VueJS, AngularJS et TypeScript."},
+                    "zh": {"title": "前端开发", "description": "能够编写VueJS、AngularJS和TypeScript代码。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Information Visualization", "description": "Able to transform complex data into clear visuals."},
+                    "es": {"title": "Visualización de Información", "description": "Capaz de transformar datos complejos en visuales claros."},
+                    "fr": {"title": "Visualisation de l'Information", "description": "Capable de transformer des données complexes en visuels clairs."},
+                    "zh": {"title": "信息可视化", "description": "能够将复杂的数据转化为清晰的可视化图表。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Accessibility and Inclusive Design", "description": "Able to create digital experiences that are accessible to all."},
+                    "es": {"title": "Accesibilidad y Diseño Inclusivo", "description": "Capaz de crear experiencias digitales accesibles para todos."},
+                    "fr": {"title": "Accessibilité et Design Inclusif", "description": "Capable de créer des expériences numériques accessibles à tous."},
+                    "zh": {"title": "可访问性和包容性设计", "description": "能够创建面向所有人的数字体验。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "User-Centric Data Analysis", "description": "Proficient in analyzing data with a focus on the needs and preferences of users, enabling data-driven decisions that align with user expectations."},
+                    "es": {"title": "Análisis de Datos Centrado en el Usuario", "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."},
+                    "fr": {"title": "Analyse de Données Axée sur l'Utilisateur", "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."},
+                    "zh": {"title": "以用户为中心的数据分析", "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Mobile App User Experience", "description": "Skilled in crafting user-centered experiences within mobile applications, ensuring smooth and intuitive interactions."},
+                    "es": {"title": "Experiencia de Usuario en Aplicaciones Móviles", "description": "Experto en crear experiencias centradas en el usuario en aplicaciones móviles, garantizando interacciones fluidas e intuitivas."},
+                    "fr": {"title": "Expérience Utilisateur d'Applications Mobiles", "description": "Compétent dans la création d'expériences centrées sur l'utilisateur au sein des applications mobiles, garantissant des interactions fluides et intuitives."},
+                    "zh": {"title": "移动应用用户体验", "description": "擅长在移动应用中打造以用户为中心的体验，确保流畅而直观的交互。"}
+                }
+            }
+        ]
+
+    }
+}
