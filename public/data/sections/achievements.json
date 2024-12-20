@@ -34,27 +34,17 @@
             {
                 "id": "ibm",
                 "place": "@link{places.coursera}",
-                "date": "2018/08",
-                "href": "https://google.com",
+                "date": "2024/05",
+                "href": "https://www.coursera.org/account/accomplishments/verify/BLLEJDNM7WNA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
                 "locales": {
                     "en": {
-                        "title": "Google UX Design Certification",
-                        "description": "Certified by Google in UX design; demonstrated expertise in user-centered design."
+                        "title": "JavaScript Programming Essentials by IBM"
                     },
-
                     "es": {
-                        "title": "Certificación de Diseño UX de Google",
-                        "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario."
+                        "title": "Conceptos Básicos de Programación en JavaScript por IBM"
                     },
-
-                    "fr": {
-                        "title": "Certification Google UX Design",
-                        "description": "Certifié par Google en conception UX ; a démontré une expertise en design centré sur l'utilisateur."
-                    },
-
-                    "zh": {
-                        "title": "Google用户体验设计认证",
-                        "description": "通过Google用户体验设计认证；展示了用户中心设计的专业知识。"
+                    "pt": {
+                        "title": "Essenciais de Programação em JavaScript pela IBM"
                     }
                 }
             },
@@ -62,27 +52,17 @@
             {
                 "id": "ibm2",
                 "place": "@link{places.coursera}",
-                "date": "2019/04",
+                "date": "2024/06",
                 "href": "https://coursera.org/share/24f94371bfbfdd5925a3974d9aef0756",
                 "locales": {
                     "en": {
-                        "title": "UI/UX Nanodegree",
-                        "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills."
+                        "title": "Developing Front-End Apps with React by IBM"
                     },
-
                     "es": {
-                        "title": "Nanogrado en UI/UX",
-                        "description": "Completó el nanogrado completo en UI/UX en Udemy; adquirió habilidades prácticas."
+                        "title": "Desarrollo de aplicaciones Front-End con React por IBM"
                     },
-
-                    "fr": {
-                        "title": "Nanodiplôme UI/UX",
-                        "description": "A suivi le nanodiplôme complet en UI/UX sur Udemy ; a acquis des compétences pratiques."
-                    },
-
-                    "zh": {
-                        "title": "UI/UX纳米学位",
-                        "description": "在Udemy完成了全面的UI/UX纳米学位；获得了实际技能。"
+                    "pt": {
+                        "title": "Desenvolvimento de Aplicações Front-End com React pela IBM"
                     }
                 }
             },
