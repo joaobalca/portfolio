@@ -50,16 +50,16 @@
                 
                 "locales": {
                     "en": {
-                        "description": "<b>Wilddouro</b> is a tourism agency that specializes in creating programs that operate in Continental Portugal. This web application was developed from scratch using the JavaScript framework Vue.js and the CSS framework Bootstrap. For payment processing, Stripe was used. All content is managed through an administration panel also made in Vue.js, making requests to the REST API.",
-                        "tags": ["Vue.js", "Bootstrap", "Stripe", "REST API"]
+                        "description": "<b>Wilddouro</b> is a tourism agency that specializes in creating programs that operate in Continental Portugal. This web application was developed from scratch using the JavaScript framework Vue.js and the CSS framework Bootstrap. For payment processing, Stripe was used. All content is managed through an administration panel also made in Vue.js",
+                        "tags": ["Vue.js", "Bootstrap", "Stripe", "REST API Integration"]
                     },
                     "es": {
-                        "description": "<b>Wilddouro</b> es una agencia de turismo que se dedica a crear programas que actúan en Portugal Continental. Esta aplicación web fue desarrollada desde cero utilizando el framework de JavaScript, Vue.js y el framework de CSS, Bootstrap. Para la realización de los pagos se utilizó Stripe. Todo el contenido es gestionado a través de un panel de administración hecho también en Vue.js, haciendo peticiones a la REST API.",
-                        "tags": ["Vue.js", "Bootstrap", "Stripe", "REST API"]
+                        "description": "<b>Wilddouro</b> es una agencia de turismo que se dedica a crear programas que actúan en Portugal Continental. Esta aplicación web fue desarrollada desde cero utilizando el framework de JavaScript, Vue.js y el framework de CSS, Bootstrap. Para la realización de los pagos se utilizó Stripe. Todo el contenido es gestionado a través de un panel de administración hecho también en Vue.js",
+                        "tags": ["Vue.js", "Bootstrap", "Stripe", "Integracion de una REST API"]
                     },
                     "pt": {
-                        "description": "A <b>Wilddouro</b> é uma agência de turismo que se dedica a criar programas que atuam em Portugal Continental. Esta aplicação web foi desenvolvida de raíz utilizando a framework de JavaScript, Vue.js e a framework de CSS, Bootstrap. Para a realização dos pagamentos foi utilizado o Stripe. Todo o conteúdo é gerido através de um painel de administração feito também em Vue.js, fazendo pedidos à REST API.",
-                        "tags": ["Vue.js", "Bootstrap", "Stripe", "REST API"]
+                        "description": "A <b>Wilddouro</b> é uma agência de turismo que se dedica a criar programas que atuam em Portugal Continental. Esta aplicação web foi desenvolvida de raíz utilizando a framework de JavaScript, Vue.js e a framework de CSS, Bootstrap. Para a realização dos pagamentos foi utilizado o Stripe. Todo o conteúdo é gerido através de um painel de administração feito também em Vue.js",
+                        "tags": ["Vue.js", "Bootstrap", "Stripe", "Integração de uma REST API"]
                     }
                 }
             },
@@ -69,20 +69,20 @@
                 "title": "FactoryPlay",
                 "logoUrl": "images/portfolio/factoryplay.svg",
                 "links": [
-                    {"faIcon": "fa-solid fa-globe", "href": "https://factoryplay.com", "id": "Website"}
+                    {"faIcon": "fa-solid fa-globe", "href": "https://factoryplay.com", "id": "webApplication"}
                 ],
                 "locales": {
                     "en": {
-                        "description": "<b>Factoryplay</b> is a company that manufactures custom inflatables. This web application was developed from scratch using the JavaScript framework Vue.js and the CSS framework Bootstrap. For payment processing, EasyPay was used. All content is managed through an administration panel also made in Vue.js, making requests to the REST API just like the application. This application also features a 3d simulator where the user can interact with a product in case it has an associated model and thus customize it and make their purchase consequently.",
-                        "tags": ["Vue.js", "EasyPay", "Bootstrap", "Three.js", "REST API"]
+                        "description": "<b>Factoryplay</b> is a company that manufactures custom inflatables. This web application was developed from scratch using the JavaScript framework Vue.js and the CSS framework Bootstrap. For payment processing, EasyPay was used. All content is managed through an administration panel also made in Vue.js. This application also features a 3d simulator where the user can interact with a product in case it has an associated model and thus customize it and make their purchase consequently.",
+                        "tags": ["Vue.js", "EasyPay", "Bootstrap", "Three.js", "REST API Integration"]
                     },
                     "es": {
-                        "description": "<b>Factoryplay</b> es una empresa que fabrica inflables a medida. Esta aplicación web fue desarrollada desde cero utilizando el framework de JavaScript, Vue.js y el framework de CSS, Bootstrap. Para la realización de los pagos se utilizó la EasyPay. Todo el contenido es gestionado a través de un panel de administración hecho también en Vue.js, haciendo pedidos a la REST API tal como la aplicación. Esta aplicación tiene presente también un simulador 3d donde el usuario puede interactuar con un producto en caso de que este tenga un modelo asociado y así personalizarlo y efectuar su compra consecuentemente.",
-                        "tags": ["Vue.js", "EasyPay", "Bootstrap", "Three.js", "REST API"]
+                        "description": "<b>Factoryplay</b> es una empresa que fabrica inflables a medida. Esta aplicación web fue desarrollada desde cero utilizando el framework de JavaScript, Vue.js y el framework de CSS, Bootstrap. Para la realización de los pagos se utilizó la EasyPay. Todo el contenido es gestionado a través de un panel de administración hecho también en Vue.js. Esta aplicación tiene presente también un simulador 3d donde el usuario puede interactuar con un producto en caso de que este tenga un modelo asociado y así personalizarlo y efectuar su compra consecuentemente.",
+                        "tags": ["Vue.js", "EasyPay", "Bootstrap", "Three.js", "Integracion de una REST API"]
                     },
                     "pt": {
-                        "description": "<b>A Factoryplay</b> é uma empresa que fabrica insufláveis à media. Esta aplicação web foi desenvolvida de raíz utilizando a framework de JavaScript, Vue.js e a framework de CSS, Bootstrap. Para a realização dos pagamentos foi utilizada a EasyPay. Todo o conteúdo é gerido através de um painel de administração feito também em Vue.js, fazendo pedidos à REST API tal como a aplicação. Esta aplicação tem presente também um simulador 3d onde o utilizador pode interagir com um produto caso este tenha um modelo associado e assim personalizá-lo e efetuar a sua compra consequentemente.",
-                        "tags": ["Vue.js", "EasyPay", "Bootstrap", "Three.js", "REST API"]
+                        "description": "<b>A Factoryplay</b> é uma empresa que fabrica insufláveis à media. Esta aplicação web foi desenvolvida de raíz utilizando a framework de JavaScript, Vue.js e a framework de CSS, Bootstrap. Para a realização dos pagamentos foi utilizada a EasyPay. Todo o conteúdo é gerido através de um painel de administração feito também em Vue.js. Esta aplicação tem presente também um simulador 3d onde o utilizador pode interagir com um produto caso este tenha um modelo associado e assim personalizá-lo e efetuar a sua compra consequentemente.",
+                        "tags": ["Vue.js", "EasyPay", "Bootstrap", "Three.js", "Integração de uma REST API"]
                     }
                 }
             },
@@ -90,23 +90,18 @@
                 "id": "paack",
                 "title": "Paack",
                 "logoUrl": "images/portfolio/paack.svg",
-                "links": [
-                    {"faIcon": "fa-brands fa-apple", "href": "https://apple.com", "id": "App Store"},
-                    {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com", "id": "Google Play"},
-                    {"faIcon": "fa-brands fa-windows", "href": "https://windows.com", "id": "Windows Store"}
-                ],
                 "locales": {
                     "en": {
-                        "description": "<b>Paack</b>",
-                        "tags": ["Next.js", "Tailwind", "REST API", "Stripe"]
+                        "description": "<b>Paack</b> is a product of the company Outsmartis that focuses on making the life of digital content creators and agencies easier through the help of artificial intelligence whether in content creation, images, linguistic corrections or translations. This web application was developed using the JavaScript framework, Next.js and the CSS framework, Tailwind. This product is charged by subscription and for payment processing, Stripe was used. Depending on the plan (personal or agency) the user will have access to different functionalities.",
+                        "tags": ["Next.js", "Tailwind", "REST API Integration", "Stripe", "Artificial Intelligence"]
                     },
                     "es": {
-                        "description": "<b>Paack</b>",
-                        "tags": ["Next.js", "Tailwind", "REST API", "Stripe"]
+                        "description": "<b>Paack</b> es un producto de la empresa Outsmartis que se enfoca en hacer la vida de creadores de contenido digital y agencias más fácil a través de la ayuda de la inteligencia artificial ya sea en la creación del contenido, imágenes, correcciones lingüísticas o traducciones. Esta aplicación web fue desarrollada utilizando la framework de JavaScript, Next.js y la framework de CSS, Tailwind. Este producto es cobrado por suscripción y para la realización de los pagos fue utilizado el Stripe. Dependiendo del plan (personal o agencia) el usuario tendrá acceso a diferentes funcionalidades.",
+                        "tags": ["Next.js", "Tailwind", "Integracion de una REST API", "Stripe", "Inteligencia Artificial"]
                     },
                     "pt": {
-                        "description": "<b>Paack</b> é um produto da empresa Outsmartis que se foca em tornar a vida de criadores de conteúdo digital e agências mais fácil através de ajuda da inteligência artificial seja na criação do conteúdo, imagens, correções linguísticas ou traduções. Esta aplicação web foi desenvolvida de raíz utilizando a framework de JavaScript, Next.js e a framework de CSS, Tailwind. Para a realização dos pagamentos foi utilizado o Stripe. Todo o conteúdo é gerido através de um painel de administração feito também em Vue.js, fazendo pedidos à REST API tal como a aplicação.",
-                        "tags": ["Next.js", "Tailwind", "REST API", "Stripe"]
+                        "description": "<b>Paack</b> é um produto da empresa Outsmartis que se foca em tornar a vida de criadores de conteúdo digital e agências mais fácil através de ajuda da inteligência artificial seja na criação do conteúdo, imagens, correções linguísticas ou traduções. Esta aplicação web foi desenvolvida utilizando a framework de JavaScript, Next.js e a framework de CSS, Tailwind. Este produto é cobrado por subscrição e para a realização dos pagamentos foi utilizado o Stripe. Dependendo do plano (pessoal ou agência) o utilizador terá acesso a diferentes funcionalidades.",
+                        "tags": ["Next.js", "Tailwind", "Integração de uma REST API", "Stripe", "Inteligência Artificial"]
                     }
                 }
             },
@@ -116,21 +111,20 @@
                 "title": "Cooperativa Freixo de Numao",
                 "logoUrl": "images/portfolio/numao.png",
                 "links": [
-                    {"faIcon": "fa-brands fa-apple", "href": "https://apple.com", "id": "App Store"},
-                    {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com", "id": "Google Play"}
+                    {"faIcon": "fa-solid fa-globe", "href": "https://www.cfnumao.com/", "id": "webApplication"}
                 ],
                 "locales": {
                     "en": {
-                        "description": "<b>Snappy</b> is your ultimate photography app, empowering you to capture and edit stunning images effortlessly. With its intuitive interface, Snappy provides a wide range of powerful tools and filters to enhance your photos and bring out your creativity. Whether you're a professional photographer or just a hobbyist, Snappy offers features like manual controls, advanced editing options, and AI-powered enhancements to take your photography to the next level.",
-                        "tags": ["app", "photography", "camera"]
+                        "description": "<b>Cooperativa Freixo de Numao</b> is a cooperative that produces oil, wine and liquors. This web application was developed from scratch using the JavaScript framework Vue.js and the CSS framework Bootstrap. All content is managed through an administration panel also made in Vue.js. Making requests to the REST API.",
+                        "tags": ["Vue.js", "Bootstrap", "REST API Integration"]
                     },
                     "es": {
-                        "description": "<b>Snappy</b> es tu aplicación definitiva de fotografía, que te permite capturar y editar imágenes impresionantes sin esfuerzo. Con su interfaz intuitiva, Snappy ofrece una amplia gama de herramientas y filtros poderosos para mejorar tus fotos y potenciar tu creatividad. Ya seas un fotógrafo profesional o simplemente un aficionado, Snappy ofrece funciones como controles manuales, opciones de edición avanzadas y mejoras impulsadas por inteligencia artificial para llevar tu fotografía al siguiente nivel.",
-                        "tags": ["aplicación", "fotografía", "cámara"]
+                        "description": "<b>Cooperativa Freixo de Numao</b> es una cooperativa que produce aceite, vino y licores. Esta aplicación web fue desarrollada de raíz utilizando la framework de JavaScript, Vue.js y la framework de CSS, Bootstrap. Todo el contenido es gestionado a través de un panel de administración hecho también en Vue.js. Haciendo peticiones a la REST API.",
+                        "tags": ["Vue.js", "Bootstrap", "Integracion de una REST API"]
                     },
                     "pt": {
-                        "description": "<b>Snappy</b> est votre application ultime de photographie, vous permettant de capturer et d'éditer des images époustouflantes sans effort. Avec son interface intuitive, Snappy propose une large gamme d'outils puissants et de filtres pour améliorer vos photos et stimuler votre créativité. Que vous soyez un photographe professionnel ou simplement un amateur, Snappy offre des fonctionnalités telles que les commandes manuelles, les options d'édition avancées et les améliorations alimentées par l'IA pour pousser votre photographie à un niveau supérieur.",
-                        "tags": ["application", "photographie"]
+                        "description": "<b>Cooperativa Freixo de Numao</b> é uma cooperativa que produz azeite, vinho e licores. Esta aplicação web foi desenvolvida de raíz utilizando a framework de JavaScript, Vue.js e a framework de CSS, Bootstrap. Todo o conteúdo é gerido através de um painel de administração feito também em Vue.js. Na mesma temos acesso a páginas informativas sobre a cooperativa, os produtos que produzem entre outras. Tem também uma secção destinada aos clientes poderem aceder a dados sobre as suas vendas de produtos à cooperativa.",
+                        "tags": ["Vue.js", "Bootstrap", "Integração de uma REST API"]
                     }
                 }
             },
@@ -138,22 +132,18 @@
                 "id": "mindBoard",
                 "title": "Mindboard",
                 "logoUrl": "images/portfolio/mindboard.svg",
-                "links": [
-                    {"faIcon": "fa-brands fa-apple", "href": "https://apple.com", "id": "App Store"},
-                    {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com", "id": "Google Play"}
-                ],
                 "locales": {
                     "en": {
-                        "description": "Step into the electrifying world of rock music with <b>RockVerse</b>! This app is a haven for rock enthusiasts, offering a vast collection of classic and modern rock tracks, curated playlists, and behind-the-scenes content. Whether you're a die-hard fan or just discovering the genre, <b>RockVerse</b> brings you closer to the heart and soul of rock and roll. Crank up the volume and let the rock 'n' roll spirit run wild!",
-                        "tags": ["app", "music", "rock", "entertainment"]
+                        "description": "<b>Mindboard</b> is a web application designed to host personal and organizational transformation classes. These classes are conducted through virtual rooms and using 3D models. For this, Three.js technology was used. The application was developed from scratch using the JavaScript framework, Vue.js, and the CSS framework, Bootstrap.",
+                        "tags": ["Vue.js", "Bootstrap", "Three.js", "REST API Integration"]
                     },
                     "es": {
-                        "description": "¡Adéntrate en el electrizante mundo de la música rock con <b>RockVerse</b>! Esta aplicación es un refugio para los entusiastas del rock, ofreciendo una amplia colección de canciones de rock clásicas y modernas, listas de reproducción seleccionadas y contenido detrás de escena. Ya seas un fanático acérrimo o estés descubriendo el género, <b>RockVerse</b> te acerca al corazón y alma del rock and roll. ¡Sube el volumen y deja que el espíritu del rock 'n' roll se desate!",
-                        "tags": ["aplicación", "música", "rock", "entretenimiento"]
+                        "description": "<b>Mindboard</b> es una aplicación web que tiene como finalidad alojar clases de transformación personal y organizacional. Estas clases se imparten a través de salas virtuales y utilizando modelos 3D. Para esto se utilizó la tecnología Three.js. La aplicación fue desarrollada desde cero utilizando el framework de JavaScript, Vue.js y el framework de CSS, Bootstrap",
+                        "tags": ["Vue.js", "Bootstrap", "Three.js", "Integracion de una REST API"]
                     },
                     "pt": {
-                        "description": "Plongez dans le monde électrisant de la musique rock avec <b>RockVerse</b> ! Cette application est un paradis pour les amateurs de rock, offrant une vaste collection de pistes rock classiques et modernes, des listes de lecture sélectionnées et du contenu en coulisses. Que vous soyez un fan inconditionnel ou que vous découvriez simplement le genre, <b>RockVerse</b> vous rapproche du cœur et de l'âme du rock 'n' roll. Montez le volume et laissez l'esprit du rock 'n' roll s'exprimer !",
-                        "tags": ["application", "musique", "rock", "divertissement"]
+                        "description": "<b>Mindboard</b> é uma aplicação web que tem como finalidade alojar aulas de transformação pessoal e organizacional. Estas aulas são dadas através de salas virtuais e recorrendo a modelos 3d. Para isto foi utilizado a tecnologia Three.js. A aplicação foi desenvolvida de raíz utilizando a framework de JavaScript, Vue.js e a framework de CSS, Bootstrap",
+                        "tags": ["Vue.js", "Bootstrap", "Three.js", "Integração de uma REST API"]
                     }
                 }
             }   
@@ -165,21 +155,20 @@
                 "title": "Revenue Master",
                 "logoUrl": "images/portfolio/revenue.png",
                 "links": [
-                    {"faIcon": "fa-brands fa-apple", "href": "https://apple.com", "id": "App Store"},
-                    {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com", "id": "Google Play"}
+                    {"faIcon": "fa-solid fa-globe", "href": "https://revenuemaster.io/", "id": "webApplication"}
                 ],
                 "locales": {
                     "en": {
-                        "description": "<b>MailM8</b> is your intelligent email companion, revolutionizing the way you manage and interact with your inbox. With advanced AI-powered features, <b>MailM8</b> helps you declutter your email, prioritize important messages, and compose smart replies in a breeze. Say goodbye to email overwhelm and hello to a more efficient and organized communication experience with <b>MailM8</b>.",
-                        "tags": ["app", "email", "communication", "webApplications"]
+                        "description": "<b>Revenue Master</b> is a web application designed to help hotel groups manage their hotel chains. In this application, we can associate our hotels with our hotel chains, associate rooms, employees, inventory, among others. We also have access to various statistical data provided by two external integrations and artificial intelligence to help us practice competitive pricing based on the market we are in.",
+                        "tags": ["Vue.js", "Bootstrap", "Docker", "REST API Integration", "Artificial Intelligence"]
                     },
                     "es": {
-                        "description": "<b>MailM8</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
-                        "tags": ["aplicación", "correo electrónico", "comunicación", "productividad"]
+                        "description": "<b>Revenue Master</b> es una aplicación web que tiene como objetivo ayudar a los grupos hoteleros a gestionar sus cadenas hoteleras. En esta aplicación podemos asociar nuestros hoteles a nuestras cadenas hoteleras, asociar habitaciones, empleados, inventario, entre otros. También tenemos acceso a varios datos estadísticos proporcionados por dos integraciones externas y contamos con inteligencia artificial para ayudarnos a practicar precios competitivos basados en el mercado en el que estamos insertos.",
+                        "tags": ["Vue.js", "Bootstrap", "Docker", "Integracion de una REST API", "Inteligencia Artificial"]
                     },
                     "pt": {
-                        "description": "<b>MailM8</b> est votre compagnon de messagerie intelligent, révolutionnant la manière dont vous gérez et interagissez avec votre boîte de réception. Avec des fonctionnalités avancées alimentées par l'IA, <b>MailM8</b> vous aide à désencombrer votre boîte de réception, à prioriser les messages importants et à composer des réponses intelligentes en un clin d'œil. Dites adieu à la surcharge de courrier électronique et bonjour à une expérience de communication plus efficace et organisée avec <b>MailM8</b>.",
-                        "tags": ["application", "courrier électronique", "communication", "productivité"]
+                        "description": "<b>Revenue Master</b> é uma aplicação web que tem como finalidade ajudar grupos hoteleiros a gerir as suas cadeias hoteleiras. Nesta aplicação podemos associar os nossos hóteis às nossas cadeias hoteleiras, associar quartos, funcionários, inventário, entre outros. Temos também acesso a diversos dados estatísticos fornecidos por duas integrações externas e temos presente a Inteligência artificial para nos ajudar a praticar preços competitivos com base no mercado onde estamos iseridos.",
+                        "tags": ["Vue.js", "Bootstrap", "Docker", "Integração de uma REST API", "Inteligência Artificial"]
                     }
                 }
             },
@@ -187,22 +176,18 @@
                 "id": "materBizz",
                 "title": "MaterBizz",
                 "logoUrl": "images/portfolio/materbizz.png",
-                "links": [
-                    {"faIcon": "fa-brands fa-apple", "href": "https://apple.com", "id": "App Store"},
-                    {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com", "id": "Google Play"}
-                ],
                 "locales": {
                     "en": {
-                        "description": "<b>Find a Goalie</b> is your go-to app for finding and connecting with goaltenders in your area. Whether you're organizing a pickup hockey game or need a goalie for your team's practice session, this app makes it easy to search for available goaltenders, view their profiles, and send direct messages for collaboration. Get the pads on and let <b>Find a Goalie</b> help you keep the net covered!",
-                        "tags": ["app", "sports", "hockey", "goalie"]
+                        "description": "<b>MaterBizz</b> is a web application designed to manage property rentals. In this application, we have access to statistical data about each property we have rented, knowing for example: expenses, profits, rented months, etc. We can also attach files or add people responsible for each property.",
+                        "tags": ["Vue.js", "Bootstrap", "REST API Integration"]
                     },
                     "es": {
-                        "description": "<b>Find a Goalie</b> es tu aplicación de referencia para encontrar y conectarte con porteros en tu área. Ya sea que estés organizando un partido de hockey improvisado o necesites un portero para la sesión de práctica de tu equipo, esta aplicación facilita la búsqueda de porteros disponibles, ver sus perfiles y enviar mensajes directos para colaborar. ¡Ponte los pads y deja que <b>Find a Goalie</b> te ayude a mantener la portería cubierta!",
-                        "tags": ["aplicación", "deporte", "hockey", "portero"]
+                        "description": "<b>MaterBizz</b> es una aplicación web con el propósito de gestionar el alquiler de propiedades. En esta aplicación tenemos acceso a datos estadísticos sobre cada propiedad que tenemos alquilada, sabiendo por ejemplo: los gastos, beneficios, los meses alquilados, etc. También podemos adjuntar archivos o agregar personas responsables de cada propiedad.",
+                        "tags": ["Vue.js", "Bootstrap", "Integracion de una REST API"]
                     },
                     "pt": {
-                        "description": "<b>Find a Goalie</b> est votre application incontournable pour trouver et entrer en contact avec des gardiens de but de votre région. Que vous organisiez un match de hockey improvisé ou ayez besoin d'un gardien pour la séance d'entraînement de votre équipe, cette application facilite la recherche de gardiens de but disponibles, la consultation de leurs profils et l'envoi de messages directs pour la collaboration. Enfilez les pads et laissez <b>Find a Goalie</b> vous aider à garder le filet protégé !",
-                        "tags": ["application", "sport", "hockey", "gardien de but"]
+                        "description": "<b>MaterBizz</b> é uma aplicação web com a finalidade de gerir o aluguer de imóveis. Nesta aplicação temos acesso a dados estatísticos sobre cada imóvel que temos arrendado sabendo por exemplo: as despesas, lucros, os meses alugados, etc. Podemos também anexar ficheiros ou adicionar pessoas responsáveis por cada imóvel",
+                        "tags": ["Vue.js", "Bootstrap", "Integração de uma REST API"]
                     }
                 }
             }
@@ -215,16 +200,16 @@
                 "logoUrl": "images/portfolio/growbiz.png",
                 "locales": {
                     "en": {
-                        "description": "Indulge in the world of delectable desserts with <b>Sweet Scoops</b>! This app is a dessert lover's paradise, offering a wide range of mouthwatering recipes, step-by-step instructions, and videos for creating your favorite sweets. From creamy ice creams to irresistible pastries, <b>Sweet Scoops</b> has you covered for all your dessert cravings. Unleash your inner pastry chef and treat yourself to a delightful dessert experience.",
-                        "tags": ["app", "food", "desserts", "recipes"]
+                        "description": "<b>Growbiz</b> is a personal project that I developed with the aim of expanding my knowledge, more specifically in the back-end area. I had the opportunity to develop a front-end in Vue.js and Bootstrap. For the database I used MongoDB and for the back-end Express.js. This project has the functionality of booking accommodation and guided tours, but also the possibility of making the payment of these services on the platform.",
+                        "tags": ["Vue.js", "Bootstrap", "Express.js", "MongoDB"]
                     },
                     "es": {
-                        "description": "¡Déjate llevar al mundo de los postres deliciosos con <b>Sweet Scoops</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",
-                        "tags": ["aplicación", "comida", "postres", "recetas"]
+                        "description": "<b>Growbiz</b> es un proyecto personal que desarrollé con el objetivo de ampliar mis conocimientos, más concretamente en el área de back-end. Tuve la oportunidad de desarrollar un front-end en Vue.js y Bootstrap. Para la base de datos usé MongoDB y para el back-end Express.js. Este proyecto tiene como funcionalidad la reserva de alojamiento y de visitas guiadas, pero también la posibilidad de realizar el pago de estos servicios en la plataforma.",
+                        "tags": ["Vue.js", "Bootstrap", "Express.js", "MongoDB"]
                     },
                     "pt": {
-                        "description": "Indulgez-vous dans le monde des desserts délectables avec <b>Sweet Scoops</b> ! Cette application est le paradis des amateurs de desserts, offrant une large gamme de recettes alléchantes, d'instructions étape par étape et de vidéos pour créer vos douceurs préférées. Des glaces crémeuses aux pâtisseries irrésistibles, <b>Sweet Scoops</b> vous couvre pour toutes vos envies de dessert. Libérez le chef pâtissier qui sommeille en vous et offrez-vous une délicieuse expérience de dessert.",
-                        "tags": ["application", "nourriture", "desserts", "recettes"]
+                        "description": "<b>Growbiz</b> é um projeto pessoal que desenvolvi no âmbito alargar os meus conhecimentos, mais concretamente na àrea de back-end. Tive a oportunidade de desenvolver um front-end em Vue.js e Bootstrap. Para base de dados usei MongoDB e para o back-end Express.js. Este projeto tem como funcionalidade a reserva de alojamento e de visitas guiadas, mas também a possibilidade de realizar o pagamento destes serviços na plataforma.",
+                        "tags": ["Vue.js", "Bootstrap", "Express.js", "MongoDB"]
                     }
                 }
             }
