@@ -46,7 +46,7 @@
                             </div>
 
                             <!-- Links SubSection -->
-                            <div class="modal-subsection">
+                            <div v-if="props.project['links']" class="modal-subsection">
                                 <!-- Title -->
                                 <h5 class="d-inline-block fw-bold">
                                     <i class="fa fa-external-link me-2" />

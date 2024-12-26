@@ -127,7 +127,9 @@ defineExpose({
 @import "/src/scss/_theming.scss";
 
 .image-view {
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
 }
 
