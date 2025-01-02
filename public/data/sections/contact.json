@@ -2,21 +2,21 @@
     "locales": {
         "en": {
             "title": "<span class='text-primary'>Contact</span> Me",
-            "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+            "description": "Don't hesitate to get in touch with me!",
             "subtitle": "Or...",
             "subtitleDescription": "If you prefer, you can reach out to me through the following options:"
         },
         "es": {
             "title": "<span class='text-primary'>Contáctame</span>",
-            "description": "¡Por favor, no dudes en ponerte en contacto conmigo siempre que lo necesites!",
+            "description": "No dudes en ponerte en contacto conmigo!",
             "subtitle": "O...",
-            "subtitleDescription": "Si prefieres, puedes ponerte en contacto conmigo a través de las siguientes opciones:"
+            "subtitleDescription": "Si prefieres, puedes ponerte en contacto conmigo!"
         },
         "pt": {
-            "title": "<span class='text-primary'>Contacta-me</span>",
-            "description": "Por favor, não hesites em entrar em contacto comigo sempre que sentires necessidade!",
+            "title": "<span class='text-primary'>Contacte-me</span>",
+            "description": "Não hesite em entrar em contacto comigo!",
             "subtitle": "Ou...",
-            "subtitleDescription": "Se preferires, podes entrar em contacto comigo através das seguintes opções:"
+            "subtitleDescription": "Se preferir, pode entrar em contacto comigo através das seguintes formas:"
         }
     },
 

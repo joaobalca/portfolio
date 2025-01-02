@@ -13,13 +13,8 @@
             "role": "Front-end Developer"
         },
 
-        "fr": {
-            "credits": "Conçu par <strong><a class='light' href='https://github.com/joaobalca'>João Balça</a></strong>",
-            "role": "Front-end Developer"
-        },
-
-        "zh": {
-            "credits": "设计：<strong><a class='light' href='https://github.com/joaobalca'>João Balça</a></strong>",
+        "pt": {
+            "credits": "Feito por <strong><a class='light' href='https://github.com/joaobalca'>João Balça</a></strong>",
             "role": "Front-end Developer"
         }
     },

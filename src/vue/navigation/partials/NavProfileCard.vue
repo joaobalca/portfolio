@@ -48,6 +48,10 @@ const props = defineProps({
     text-align: center;
     background-color: $nav-background-color;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .img-pfp {
