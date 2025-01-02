@@ -1,2 +1,2 @@
-### Welcome to my Resume
+### Welcome to my Portfolio
 https://joaobalca.github.io/portfolio/
