@@ -1,0 +1,54 @@
+{
+    "coursera": {
+        "logoUrl": "images/places/logo-coursera.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Coursera"}
+        }
+    },
+    "internationalScrumInstitute": {
+        "logoUrl": "images/places/logo-coursera.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "International Scrum Institute"}
+        }
+    },
+
+    "utad": {
+        "logoUrl": "images/places/utad.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "University of Trás-os-Montes e Alto Douro"},
+            "es": {"name": "Universidad de Trás-os-Montes y Alto Duero"},
+            "pt": {"name": "Universidade de Trás-os-Montes e Alto Douro"}
+        }
+    },
+
+    "ESSP": {
+        "logoUrl": "images/places/ESSP.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "São Pedro High School"},
+            "es": {"name": "Escuela Secundaria de São Pedro"},
+            "pt": {"name": "Escola Secundária de São Pedro"}
+        }
+    },
+    "OUTSMARTIS": {
+        "logoUrl": "images/places/Outsmartis.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Outsmartis"},
+            "es": {"name": "Outsmartis"},
+            "pt": {"name": "Outsmartis"}
+        }
+    },
+    "CODEWIN": {
+        "logoUrl": "images/places/codewin.jpeg",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "CodeWin"},
+            "es": {"name": "CodeWin"},
+            "pt": {"name": "CodeWin"}
+        }
+    }
+}

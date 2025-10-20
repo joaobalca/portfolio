@@ -1,0 +1,218 @@
+{
+    "locales": {
+        "en": {
+            "title": "My <span class='text-primary'>Portfolio</span>",
+            "description": "These are some of the projects I've been involved in."
+        },
+        "es": {
+            "title": "Mi <span class='text-primary'>Portafolio</span>",
+            "description": "Estos son algunos de los proyectos en los que he estado involucrado."
+        },
+        "pt": {
+            "title": "Meu <span class='text-primary'>Portfólio</span>",
+            "description": "Estes são alguns dos projetos nos quais estive envolvido."
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "webApplications",
+            "locales": {
+                "en": {"title": "Web Applications"},
+                "es": {"title": "Aplicaciones Web"},
+                "pt": {"title": "Aplicações Web"}
+            }
+        },
+        {
+            "id": "managementSystems",
+            "locales": {
+                "en": {"title": "Management Systems"},
+                "es": {"title": "Sistemas de Gestión"},
+                "pt": {"title": "Sistemas de Gestão"}
+            }
+        },
+        {
+            "id": "personalProjects",
+            "locales": {
+                "en": {"title": "Personal Projects"},
+                "es": {"title": "Proyectos Personales"},
+                "pt": {"title": "Projetos Pessoais"}
+            }
+        }
+    ],
+
+    "items": {
+        "webApplications": [
+            {
+                "id": "wilddouro",
+                "title": "Wilddouro",
+                "logoUrl": "images/portfolio/wilddouro.svg",
+                
+                "locales": {
+                    "en": {
+                        "description": "<b>Wilddouro</b> is a tourism agency that specializes in creating programs that operate in Continental Portugal. This web application was developed from scratch using the JavaScript framework Vue.js and the CSS framework Bootstrap. For payment processing, Stripe was used. All content is managed through an administration panel also made in Vue.js",
+                        "tags": ["Vue.js", "Bootstrap", "Stripe", "REST API Integration"]
+                    },
+                    "es": {
+                        "description": "<b>Wilddouro</b> es una agencia de turismo que se dedica a crear programas que actúan en Portugal Continental. Esta aplicación web fue desarrollada desde cero utilizando el framework de JavaScript, Vue.js y el framework de CSS, Bootstrap. Para la realización de los pagos se utilizó Stripe. Todo el contenido es gestionado a través de un panel de administración hecho también en Vue.js",
+                        "tags": ["Vue.js", "Bootstrap", "Stripe", "Integracion de una REST API"]
+                    },
+                    "pt": {
+                        "description": "A <b>Wilddouro</b> é uma agência de turismo que se dedica a criar programas que atuam em Portugal Continental. Esta aplicação web foi desenvolvida de raíz utilizando a framework de JavaScript, Vue.js e a framework de CSS, Bootstrap. Para a realização dos pagamentos foi utilizado o Stripe. Todo o conteúdo é gerido através de um painel de administração feito também em Vue.js",
+                        "tags": ["Vue.js", "Bootstrap", "Stripe", "Integração de uma REST API"]
+                    }
+                }
+            },
+
+            {
+                "id": "factoryplay",
+                "title": "FactoryPlay",
+                "logoUrl": "images/portfolio/factoryplay.svg",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://factoryplay.com", "id": "webApplication"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Factoryplay</b> is a company that manufactures custom inflatables. This web application was developed from scratch using the JavaScript framework Vue.js and the CSS framework Bootstrap. For payment processing, EasyPay was used. All content is managed through an administration panel also made in Vue.js. This application also features a 3d simulator where the user can interact with a product in case it has an associated model and thus customize it and make their purchase consequently.",
+                        "tags": ["Vue.js", "EasyPay", "Bootstrap", "Three.js", "REST API Integration"]
+                    },
+                    "es": {
+                        "description": "<b>Factoryplay</b> es una empresa que fabrica inflables a medida. Esta aplicación web fue desarrollada desde cero utilizando el framework de JavaScript, Vue.js y el framework de CSS, Bootstrap. Para la realización de los pagos se utilizó la EasyPay. Todo el contenido es gestionado a través de un panel de administración hecho también en Vue.js. Esta aplicación tiene presente también un simulador 3d donde el usuario puede interactuar con un producto en caso de que este tenga un modelo asociado y así personalizarlo y efectuar su compra consecuentemente.",
+                        "tags": ["Vue.js", "EasyPay", "Bootstrap", "Three.js", "Integracion de una REST API"]
+                    },
+                    "pt": {
+                        "description": "<b>A Factoryplay</b> é uma empresa que fabrica insufláveis à media. Esta aplicação web foi desenvolvida de raíz utilizando a framework de JavaScript, Vue.js e a framework de CSS, Bootstrap. Para a realização dos pagamentos foi utilizada a EasyPay. Todo o conteúdo é gerido através de um painel de administração feito também em Vue.js. Esta aplicação tem presente também um simulador 3d onde o utilizador pode interagir com um produto caso este tenha um modelo associado e assim personalizá-lo e efetuar a sua compra consequentemente.",
+                        "tags": ["Vue.js", "EasyPay", "Bootstrap", "Three.js", "Integração de uma REST API"]
+                    }
+                }
+            },
+            {
+                "id": "paack",
+                "title": "Paack",
+                "logoUrl": "images/portfolio/paack.svg",
+                "locales": {
+                    "en": {
+                        "description": "<b>Paack</b> is a product of the company Outsmartis that focuses on making the life of digital content creators and agencies easier through the help of artificial intelligence whether in content creation, images, linguistic corrections or translations. This web application was developed using the JavaScript framework, Next.js and the CSS framework, Tailwind. This product is charged by subscription and for payment processing, Stripe was used. Depending on the plan (personal or agency) the user will have access to different functionalities.",
+                        "tags": ["Next.js", "Tailwind", "REST API Integration", "Stripe", "Artificial Intelligence"]
+                    },
+                    "es": {
+                        "description": "<b>Paack</b> es un producto de la empresa Outsmartis que se enfoca en hacer la vida de creadores de contenido digital y agencias más fácil a través de la ayuda de la inteligencia artificial ya sea en la creación del contenido, imágenes, correcciones lingüísticas o traducciones. Esta aplicación web fue desarrollada utilizando la framework de JavaScript, Next.js y la framework de CSS, Tailwind. Este producto es cobrado por suscripción y para la realización de los pagos fue utilizado el Stripe. Dependiendo del plan (personal o agencia) el usuario tendrá acceso a diferentes funcionalidades.",
+                        "tags": ["Next.js", "Tailwind", "Integracion de una REST API", "Stripe", "Inteligencia Artificial"]
+                    },
+                    "pt": {
+                        "description": "<b>Paack</b> é um produto da empresa Outsmartis que se foca em tornar a vida de criadores de conteúdo digital e agências mais fácil através de ajuda da inteligência artificial seja na criação do conteúdo, imagens, correções linguísticas ou traduções. Esta aplicação web foi desenvolvida utilizando a framework de JavaScript, Next.js e a framework de CSS, Tailwind. Este produto é cobrado por subscrição e para a realização dos pagamentos foi utilizado o Stripe. Dependendo do plano (pessoal ou agência) o utilizador terá acesso a diferentes funcionalidades.",
+                        "tags": ["Next.js", "Tailwind", "Integração de uma REST API", "Stripe", "Inteligência Artificial"]
+                    }
+                }
+            },
+
+            {
+                "id": "numao",
+                "title": "Cooperativa Freixo de Numao",
+                "logoUrl": "images/portfolio/numao.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://www.cfnumao.com/", "id": "webApplication"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Cooperativa Freixo de Numao</b> is a cooperative that produces oil, wine and liquors. This web application was developed from scratch using the JavaScript framework Vue.js and the CSS framework Bootstrap. All content is managed through an administration panel also made in Vue.js. Making requests to the REST API.",
+                        "tags": ["Vue.js", "Bootstrap", "REST API Integration"]
+                    },
+                    "es": {
+                        "description": "<b>Cooperativa Freixo de Numao</b> es una cooperativa que produce aceite, vino y licores. Esta aplicación web fue desarrollada de raíz utilizando la framework de JavaScript, Vue.js y la framework de CSS, Bootstrap. Todo el contenido es gestionado a través de un panel de administración hecho también en Vue.js. Haciendo peticiones a la REST API.",
+                        "tags": ["Vue.js", "Bootstrap", "Integracion de una REST API"]
+                    },
+                    "pt": {
+                        "description": "<b>Cooperativa Freixo de Numao</b> é uma cooperativa que produz azeite, vinho e licores. Esta aplicação web foi desenvolvida de raíz utilizando a framework de JavaScript, Vue.js e a framework de CSS, Bootstrap. Todo o conteúdo é gerido através de um painel de administração feito também em Vue.js. Na mesma temos acesso a páginas informativas sobre a cooperativa, os produtos que produzem entre outras. Tem também uma secção destinada aos clientes poderem aceder a dados sobre as suas vendas de produtos à cooperativa.",
+                        "tags": ["Vue.js", "Bootstrap", "Integração de uma REST API"]
+                    }
+                }
+            },
+            {
+                "id": "mindBoard",
+                "title": "Mindboard",
+                "logoUrl": "images/portfolio/mindboard.svg",
+                "locales": {
+                    "en": {
+                        "description": "<b>Mindboard</b> is a web application designed to host personal and organizational transformation classes. These classes are conducted through virtual rooms and using 3D models. For this, Three.js technology was used. The application was developed from scratch using the JavaScript framework, Vue.js, and the CSS framework, Bootstrap.",
+                        "tags": ["Vue.js", "Bootstrap", "Three.js", "REST API Integration"]
+                    },
+                    "es": {
+                        "description": "<b>Mindboard</b> es una aplicación web que tiene como finalidad alojar clases de transformación personal y organizacional. Estas clases se imparten a través de salas virtuales y utilizando modelos 3D. Para esto se utilizó la tecnología Three.js. La aplicación fue desarrollada desde cero utilizando el framework de JavaScript, Vue.js y el framework de CSS, Bootstrap",
+                        "tags": ["Vue.js", "Bootstrap", "Three.js", "Integracion de una REST API"]
+                    },
+                    "pt": {
+                        "description": "<b>Mindboard</b> é uma aplicação web que tem como finalidade alojar aulas de transformação pessoal e organizacional. Estas aulas são dadas através de salas virtuais e recorrendo a modelos 3d. Para isto foi utilizado a tecnologia Three.js. A aplicação foi desenvolvida de raíz utilizando a framework de JavaScript, Vue.js e a framework de CSS, Bootstrap",
+                        "tags": ["Vue.js", "Bootstrap", "Three.js", "Integração de uma REST API"]
+                    }
+                }
+            }   
+        ],
+
+        "managementSystems": [
+            {
+                "id": "revenue",
+                "title": "Revenue Master",
+                "logoUrl": "images/portfolio/revenue.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://revenuemaster.io/", "id": "webApplication"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Revenue Master</b> is a web application designed to help hotel groups manage their hotel chains. In this application, we can associate our hotels with our hotel chains, associate rooms, employees, inventory, among others. We also have access to various statistical data provided by two external integrations and artificial intelligence to help us practice competitive pricing based on the market we are in.",
+                        "tags": ["Vue.js", "Bootstrap", "Docker", "REST API Integration", "Artificial Intelligence"]
+                    },
+                    "es": {
+                        "description": "<b>Revenue Master</b> es una aplicación web que tiene como objetivo ayudar a los grupos hoteleros a gestionar sus cadenas hoteleras. En esta aplicación podemos asociar nuestros hoteles a nuestras cadenas hoteleras, asociar habitaciones, empleados, inventario, entre otros. También tenemos acceso a varios datos estadísticos proporcionados por dos integraciones externas y contamos con inteligencia artificial para ayudarnos a practicar precios competitivos basados en el mercado en el que estamos insertos.",
+                        "tags": ["Vue.js", "Bootstrap", "Docker", "Integracion de una REST API", "Inteligencia Artificial"]
+                    },
+                    "pt": {
+                        "description": "<b>Revenue Master</b> é uma aplicação web que tem como finalidade ajudar grupos hoteleiros a gerir as suas cadeias hoteleiras. Nesta aplicação podemos associar os nossos hóteis às nossas cadeias hoteleiras, associar quartos, funcionários, inventário, entre outros. Temos também acesso a diversos dados estatísticos fornecidos por duas integrações externas e temos presente a Inteligência artificial para nos ajudar a praticar preços competitivos com base no mercado onde estamos iseridos.",
+                        "tags": ["Vue.js", "Bootstrap", "Docker", "Integração de uma REST API", "Inteligência Artificial"]
+                    }
+                }
+            },
+            {
+                "id": "materBizz",
+                "title": "MaterBizz",
+                "logoUrl": "images/portfolio/materbizz.png",
+                "locales": {
+                    "en": {
+                        "description": "<b>MaterBizz</b> is a web application designed to manage property rentals. In this application, we have access to statistical data about each property we have rented, knowing for example: expenses, profits, rented months, etc. We can also attach files or add people responsible for each property.",
+                        "tags": ["Vue.js", "Bootstrap", "REST API Integration"]
+                    },
+                    "es": {
+                        "description": "<b>MaterBizz</b> es una aplicación web con el propósito de gestionar el alquiler de propiedades. En esta aplicación tenemos acceso a datos estadísticos sobre cada propiedad que tenemos alquilada, sabiendo por ejemplo: los gastos, beneficios, los meses alquilados, etc. También podemos adjuntar archivos o agregar personas responsables de cada propiedad.",
+                        "tags": ["Vue.js", "Bootstrap", "Integracion de una REST API"]
+                    },
+                    "pt": {
+                        "description": "<b>MaterBizz</b> é uma aplicação web com a finalidade de gerir o aluguer de imóveis. Nesta aplicação temos acesso a dados estatísticos sobre cada imóvel que temos arrendado sabendo por exemplo: as despesas, lucros, os meses alugados, etc. Podemos também anexar ficheiros ou adicionar pessoas responsáveis por cada imóvel",
+                        "tags": ["Vue.js", "Bootstrap", "Integração de uma REST API"]
+                    }
+                }
+            }
+        ],
+
+        "personalProjects": [
+            {
+                "id": "growbiz",
+                "title": "Growbiz",
+                "logoUrl": "images/portfolio/growbiz.png",
+                "locales": {
+                    "en": {
+                        "description": "<b>Growbiz</b> is a project that i developed a project together with a colleague in order to further develop knowledge. In this project we used Vue 3 for the Front-End and Express.js for the Back-End. We used MongoDb as a database. The project consists of a web application where we have the option to list rooms or houses, make the reservation and the respective payment (payments with Stripe). We can also book guided tours and sell products (using Stripe). We also have a management panel to enter and manage the information displayed in the application.",
+                        "tags": ["Vue.js", "Bootstrap", "Express.js", "MongoDB"]
+                    },
+                    "es": {
+                        "description": "<b>Growbiz</b> es un proyecto que desarrollé junto con un colega con el fin de desarrollar más conocimientos. En este proyecto utilizamos Vue 3 para el Front-End y Express.js para el Back-End. Utilizamos MongoDb como base de datos. El proyecto consiste en una aplicación web donde tenemos la opción de listar habitaciones o casas, hacer la reserva y el respectivo pago (pagos vía Stripe). Podemos también reservar tours guiados y vender productos (utilizando Stripe). Tenemos también un panel de gestión para insertar y gestionar la información presentada en la aplicación.",
+                        "tags": ["Vue.js", "Bootstrap", "Express.js", "MongoDB"]
+                    },
+                    "pt": {
+                        "description": "<b>Growbiz</b> é um projeto que desenvolvi juntamente com um colega com o intuito de desenvolver mais conhecimentos. Neste projeto utilizámos o Vue 3 para o Front-End e o Express.js para o Back-End. Utilizámos o MongoDb como base de dados. O projeto consiste numa aplicação web onde temos a opção de listar quartos ou casas, efetuar a reserva e o respetivo pagamento (pagamentos via Stripe). Podemos também reservar tours guiados e vender produtos (utilizando o Stripe). Temos também um painel de gestão para inserir e gerir a informação apresentada na aplicação.",
+                        "tags": ["Vue.js", "Bootstrap", "Express.js", "MongoDB"]
+                    }
+                }
+            }
+        ]
+    }
+}

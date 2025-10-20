@@ -1,0 +1,63 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "A glimpse into my academic trajectory and accomplishments."
+        },
+
+        "es": {
+            "title": "Antecedentes <span class='text-primary'>Educativos</span>",
+            "description": "Un vistazo a mi trayectoria académica y logros."
+        },
+
+        "pt": {
+            "title": "Formação <span class='text-primary'>Académica</span>",
+            "description": "Um olhar sobre a minha trajetória académica e conquistas."
+        }
+    },
+
+    "items": [
+        {
+            "id": "highschool_essp",
+            "place": "@link{places.ESSP}",
+            "period": ["2014/09", "2017/06"],
+
+            "locales": {
+                "en": {
+                    "title": "High School - Science and Technology Regular Course"
+                },
+
+                "es": {
+                    "title": "Bachillerato - Curso Regular de Ciencia y Tecnología"
+                },
+
+                "pt": {
+                    "title": "Ensino Secundário - Curso Regular de Ciências e Tecnologias"
+                }
+            }
+        },
+
+        {
+            "id": "bachelor_utad",
+            "place": "@link{places.utad}",
+            "period": ["2018/09", "2021/06"],
+
+            "locales": {
+                "en": {
+                    "title": "Bachelor's Degree in Communication and Multimedia",
+                    "description": "In Communication and Multimedia I worked on several areas, the main ones being: Database (MySQL), Digital Game Development (Unity-C#) and Web Application Development (PHP, React). <p> As an end of course project I developed a web application, using the PHP framework Laravel and the JavaScript framework React. </p> <p>This project consisted of a website for a company in the animal business where it offered services such as:</p> <p>Perform scheduling appointments for veterinarian, grooming and canine hotel</p> <p>Make purchases through the E-commerce section that was implemented with Stripe</p>"
+                },
+
+                "es": {
+                    "title": "Licenciatura en Comunicación y Multimedia",
+                    "description": "En Comunicación y Multimedia trabajé en varias áreas, siendo las principales: Base de Datos (MySQL), Desarrollo de Juegos Digitales (Unity-C#) y Desarrollo de Aplicaciones Web (PHP, React). <p> Como proyecto de fin de curso desarrollé una aplicación web, utilizando el framework PHP Laravel y el framework JavaScript React. </p> <p>Este proyecto consistía en un sitio web para una empresa en el negocio de los animales donde ofrecía servicios como:</p> <p>Realizar programación de citas para veterinario, peluquería y hotel canino</p> <p>Realizar compras a través de la sección de E-commerce que se implementó con Stripe</p>"
+                },
+
+                "pt": {
+                    "title": "Licenciatura em Comunicação e Multimédia",
+                    "description": "Em Comunicação e Multimédia trabalhei em várias áreas, sendo as principais: Base de Dados (MySQL), Desenvolvimento de Jogos Digitais (Unity-C#) e Desenvolvimento de Aplicações Web (PHP, React). <p> Como projeto de fim de curso desenvolvi uma aplicação web, utilizando o framework PHP Laravel e o framework JavaScript React. </p> <p>Este projeto consistia num site para uma empresa no ramo dos animais onde oferecia serviços como:</p> <p>Realizar marcação de consultas para veterinário, banhos e hotel canino</p> <p>Realizar compras através da secção de E-commerce que foi implementada com Stripe</p>"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "locales": {
+        "en": {
+            "title": "Career <span class='text-primary'>Achievements</span>",
+            "description": "My journey as front-end developer has been marked by unwavering dedication to learning and skill enhancement."
+        },
+
+        "es": {
+            "title": "Logros <span class='text-primary'>Profesionales</span>",
+            "description": "Mi viaje como desarrollador front-end ha estado marcado por una dedicación inquebrantable al aprendizaje y la mejora de habilidades."
+        },
+
+        "pt": {
+            "title": "Realizações <span class='text-primary'>Profissionais</span>",
+            "description": "A minha jornada como desenvolvedor de front-end tem sido marcada por uma dedicação inabalável à aprendizagem e ao aprimoramento de habilidades."
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "certifications",
+            "faIcon": "fa-solid fa-award",
+            "locales": {
+                "en": {"title": "Certifications", "buttonLabel": "View Certification"},
+                "es": {"title": "Certificaciones", "buttonLabel": "Ver Certificación"},
+                "pt": {"title": "Certificações", "buttonLabel": "Ver Certificação"}
+            }
+        }
+    ],
+
+    "items": {
+
+        "certifications": [
+            {
+                "id": "ibm",
+                "place": "@link{places.coursera}",
+                "date": "2024/05",
+                "href": "https://www.coursera.org/account/accomplishments/verify/BLLEJDNM7WNA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+                "locales": {
+                    "en": {
+                        "title": "JavaScript Programming Essentials by IBM"
+                    },
+                    "es": {
+                        "title": "Conceptos Básicos de Programación en JavaScript por IBM"
+                    },
+                    "pt": {
+                        "title": "Essenciais de Programação em JavaScript pela IBM"
+                    }
+                }
+            },
+
+            {
+                "id": "ibm2",
+                "place": "@link{places.coursera}",
+                "date": "2024/06",
+                "href": "https://coursera.org/share/24f94371bfbfdd5925a3974d9aef0756",
+                "locales": {
+                    "en": {
+                        "title": "Developing Front-End Apps with React by IBM"
+                    },
+                    "es": {
+                        "title": "Desarrollo de aplicaciones Front-End con React por IBM"
+                    },
+                    "pt": {
+                        "title": "Desenvolvimento de Aplicações Front-End com React pela IBM"
+                    }
+                }
+            },
+
+            {
+                "id": "ibm3",
+                "place": "@link{places.coursera}",
+                "date": "2024/08",
+                "href": "https://www.coursera.org/account/accomplishments/verify/YJJBKVWJPWOR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+                "locales": {
+                    "en": {
+                        "title": "Developing Back-End Apps with Node.js and Express by IBM"
+                    },
+
+                    "es": {
+                        "title": "Desarrollo de aplicaciones Back-End con Node.js y Express por IBM"
+                    },
+
+                    "pt": {
+                        "title": "Desenvolvimento de Aplicações Back-End com Node.js e Express pela IBM"
+                    }
+                }
+            },
+            {
+                "id": "ibm4",
+                "place": "@link{places.internationalScrumInstitute}",
+                "date": "2025/10",
+                "href": "https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC494003c185-99488926404155.pdf",
+                "locales": {
+                    "en": {
+                        "title": "Scrum Master Accredited Certification"
+                    },
+
+                    "es": {
+                        "title": "Scrum Master Accredited Certification"
+                    },
+
+                    "pt": {
+                        "title": "Scrum Master Accredited Certification"
+                    }
+                }
+            }
+        ]
+    }
+}

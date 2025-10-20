@@ -1,0 +1,100 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Interests</span>",
+            "description": "Here are some of my interests:"
+        },
+        "es": {
+            "title": "<span class='text-primary'>Intereses</span>",
+            "description": "Aquí están algunos de mis intereses:"
+        },
+        "pt": {
+            "title": "<span class='text-primary'>Interesses</span>",
+            "description": "Aqui estão alguns dos meus interesses:"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "interests",
+            "type": "list",
+            "progress": null,
+            "faIcon": "fa fa-book-open-reader",
+            "locales": {
+                "en": {"title": "Interests"},
+                "es": {"title": "Intereses"},
+                "pt": {"title": "Interesses"}
+            }
+        }
+    ],
+
+    "items": {
+
+        "interests": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-camera",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Photography",
+                        "description": "I have been developing my creative side through photography. I am still learning, but I love capturing moments and landscapes."
+                    },
+                    "es": {
+                        "title": "Fotografía",
+                        "description": "He estado desarrollando mi lado creativo a través de la fotografía. Todavía estoy aprendiendo, pero me encanta capturar momentos y paisajes."
+                    },
+                    "pt": {
+                        "title": "Fotografia",
+                        "description": "Tenho vindo a desenvolver o meu lado criativo através da fotografia. Ainda estou a aprender, mas adoro capturar momentos e paisagens."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-flag-checkered",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Karting", "description": "I started karting when I was five and to this day it's one of my passions. I love the adrenaline, the feeling of speed and the conviviality it brings."},
+                    "es": {"title": "Karting", "description": "Empecé a correr en karts a los cinco años y, a día de hoy, es una de mis pasiones. Me encanta la adrenalina, la sensación de velocidad y la socialización que conlleva."},
+                    "pt": {"title": "Karting", "description": "Comecei a andar de kart com cinco anos e até hoje é uma das minhas paixões. Adoro a adrenalina, a sensação de velocidade e o convívio que isto proporciona."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-cube",
+                "value": null,
+                "locales": {
+                    "en": {"title": "3D Printing", "description": "I love the fact that I can solve everyday problems with 3D printing. It's amazing to see how an idea can be transformed into an object and solve a problem."},
+                    "es": {"title": "Impresión 3D", "description": "Me encanta poder resolver problemas cotidianos con la impresión 3D. Es increíble ver cómo una idea puede transformarse en un objeto y resolver un problema."},
+                    "pt": {"title": "Impressão 3D", "description": "Adoro o facto de conseguir resolver problemas do dia-a-dia com a impressão 3D. É incrível ver como uma ideia se pode transformar num objeto e solucionar um problema."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-mountain-sun",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Travel and Explore", "description": "I like to travel and explore new places, cultures and cuisines because I think you learn a lot from these experiences."},
+                    "es": {"title": "Viajar y Explorar", "description": "Me gusta viajar y explorar nuevos lugares, culturas y cocinas porque creo que se aprende mucho de estas experiencias."},
+                    "pt": {"title": "Viajar e Explorar", "description": "Gosto de viajar e explorar novos lugares, culturas e gastronomias pois acho que se aprende muito com estas experiências."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-futbol",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Playing Sport", "description": "I like playing sport. Whether it's playing soccer, tennis, running or even weight training. It's something that forms part of my routine, helps me deal with the challenges of everyday life and helps me release stress."},
+                    "es": {"title": "Practicar Deporte", "description": "Me gusta hacer deporte. Ya sea jugar al fútbol, al tenis, correr o incluso hacer pesas. Es algo que forma parte de mi rutina, me ayuda a afrontar los retos de la vida cotidiana y me ayuda a liberar estrés."},
+                    "pt": {"title": "Praticar Desporto", "description": "Gosto de praticar desporto. Seja jogar futebol, ténis, correr ou até praticar musculação. É algo que faz parte da minha rotina, que me ajuda a lidar com os desafios do dia a dia e ajuda-me a libertar o stress."}
+                }
+            }
+        ]
+
+    }
+}
