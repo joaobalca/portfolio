@@ -200,15 +200,15 @@
                 "logoUrl": "images/portfolio/growbiz.png",
                 "locales": {
                     "en": {
-                        "description": "<b>Growbiz</b> is a personal project that I developed with the aim of expanding my knowledge, more specifically in the back-end area. I had the opportunity to develop a front-end in Vue.js and Bootstrap. For the database I used MongoDB and for the back-end Express.js. This project has the functionality of booking accommodation and guided tours, but also the possibility of making the payment of these services on the platform.",
+                        "description": "<b>Growbiz</b> is a project that i developed a project together with a colleague in order to further develop knowledge. In this project we used Vue 3 for the Front-End and Express.js for the Back-End. We used MongoDb as a database. The project consists of a web application where we have the option to list rooms or houses, make the reservation and the respective payment (payments with Stripe). We can also book guided tours and sell products (using Stripe). We also have a management panel to enter and manage the information displayed in the application.",
                         "tags": ["Vue.js", "Bootstrap", "Express.js", "MongoDB"]
                     },
                     "es": {
-                        "description": "<b>Growbiz</b> es un proyecto personal que desarrollé con el objetivo de ampliar mis conocimientos, más concretamente en el área de back-end. Tuve la oportunidad de desarrollar un front-end en Vue.js y Bootstrap. Para la base de datos usé MongoDB y para el back-end Express.js. Este proyecto tiene como funcionalidad la reserva de alojamiento y de visitas guiadas, pero también la posibilidad de realizar el pago de estos servicios en la plataforma.",
+                        "description": "<b>Growbiz</b> es un proyecto que desarrollé junto con un colega con el fin de desarrollar más conocimientos. En este proyecto utilizamos Vue 3 para el Front-End y Express.js para el Back-End. Utilizamos MongoDb como base de datos. El proyecto consiste en una aplicación web donde tenemos la opción de listar habitaciones o casas, hacer la reserva y el respectivo pago (pagos vía Stripe). Podemos también reservar tours guiados y vender productos (utilizando Stripe). Tenemos también un panel de gestión para insertar y gestionar la información presentada en la aplicación.",
                         "tags": ["Vue.js", "Bootstrap", "Express.js", "MongoDB"]
                     },
                     "pt": {
-                        "description": "<b>Growbiz</b> é um projeto pessoal que desenvolvi no âmbito alargar os meus conhecimentos, mais concretamente na àrea de back-end. Tive a oportunidade de desenvolver um front-end em Vue.js e Bootstrap. Para base de dados usei MongoDB e para o back-end Express.js. Este projeto tem como funcionalidade a reserva de alojamento e de visitas guiadas, mas também a possibilidade de realizar o pagamento destes serviços na plataforma.",
+                        "description": "<b>Growbiz</b> é um projeto que desenvolvi juntamente com um colega com o intuito de desenvolver mais conhecimentos. Neste projeto utilizámos o Vue 3 para o Front-End e o Express.js para o Back-End. Utilizámos o MongoDb como base de dados. O projeto consiste numa aplicação web onde temos a opção de listar quartos ou casas, efetuar a reserva e o respetivo pagamento (pagamentos via Stripe). Podemos também reservar tours guiados e vender produtos (utilizando o Stripe). Temos também um painel de gestão para inserir e gerir a informação apresentada na aplicação.",
                         "tags": ["Vue.js", "Bootstrap", "Express.js", "MongoDB"]
                     }
                 }

@@ -85,6 +85,25 @@
                         "title": "Desenvolvimento de Aplicações Back-End com Node.js e Express pela IBM"
                     }
                 }
+            },
+            {
+                "id": "ibm4",
+                "place": "@link{places.internationalScrumInstitute}",
+                "date": "2025/10",
+                "href": "https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC494003c185-99488926404155.pdf",
+                "locales": {
+                    "en": {
+                        "title": "Scrum Master Accredited Certification"
+                    },
+
+                    "es": {
+                        "title": "Scrum Master Accredited Certification"
+                    },
+
+                    "pt": {
+                        "title": "Scrum Master Accredited Certification"
+                    }
+                }
             }
         ]
     }

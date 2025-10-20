@@ -66,7 +66,7 @@
         {
             "id": "experience_item_3",
             "place": "@link{places.OUTSMARTIS}",
-            "period": ["2022/04", "current"],
+            "period": ["2022/04", "2025/02"],
             "locales": {
                 "en": {
                     "title": "Front-End Developer",
@@ -82,6 +82,28 @@
                     "title": "Front-End Developer",
                     "description": "• Desenvolvimento de aplicações web utilizando frameworks JavaScript Vue.Js ou React.js para criar aplicações de página única e frameworks CSS Bootstrap ou Tailwind para aplicações Front-End responsivas e websites mobile-first </br>• Integração de APIs REST </br>• Integração de métodos de pagamento como Stripe </br>• Utilização de ferramentas 3D como Three.js </br>• Desenvolvimento de websites tanto do lado do cliente como do servidor </br>• Criação de vários projetos na área de gestão hoteleira, implementando interfaces de utilizador para gerir estatísticas, funcionários, despesas, quartos, cadeias hoteleiras, inventário e sugestões de preços impulsionadas por IA </br>• Desenvolvimento de uma ferramenta para criar conteúdo em redes sociais com assistência de IA </br>• Alguma experiência com C# para desenvolver aplicações de consola </br>• Ajuda na manutenção de alguns websites em PHP",
                     "tags": ["Vue.js", "React.js", "Three.js", "Nuxt.js", "Next.js", "C#", "PHP", "Tailwind", "Bootstrap"]
+                }
+            }
+        },
+        {
+            "id": "experience_item_4",
+            "place": "@link{places.CODEWIN}",
+            "period": ["2025/03", "current"],
+            "locales": {
+                "en": {
+                    "title": "Front-End Developer",
+                    "description": "• Collaborated in cross-functional teams to design and implement scalable frontend solutions for large public sector platforms using modern frameworks (React, TypeScript, Vue 3). </br>• Developed and maintained micro-frontends, integrating them seamlessly with core applications and backend services. </br>• Leveraged OpenAPI-generated services for robust API integration, ensuring scalable and maintainable codebases. </br> • Built complex form workflows, data-driven interfaces, and interactive simulators, focusing on accessibility and user experience. </br>• Applied best practices in UI development, including responsive design, component reusability, and efficient state management. </br>• Contributed to both core platform features and specialized modules, adapting to evolving requirements and collaborating closely with backend and product teams.",
+                    "tags": ["Vue.js", "React.js", "Next.js", "TypeScript", "Style Components"]
+                },
+                "es": {
+                    "title": "Front-End Developer",
+                    "description": "• Colaboré en equipos multifuncionales para diseñar e implementar soluciones frontend escalables para grandes plataformas del sector público utilizando frameworks modernos (React, TypeScript, Vue 3). </br>• Desarrollé y mantuve micro-frontends, integrándolos perfectamente con aplicaciones principales y servicios backend. </br>• Aproveché servicios generados por OpenAPI para una integración robusta de API, asegurando bases de código escalables y mantenibles. </br>• Construí flujos de trabajo de formularios complejos, interfaces basadas en datos y simuladores interactivos, enfocándome en la accesibilidad y la experiencia del usuario. </br>• Apliqué mejores prácticas en el desarrollo de interfaces de usuario, incluyendo diseño responsivo, reutilización de componentes y gestión eficiente del estado. </br>• Contribuí tanto a las características principales de la plataforma como a módulos especializados, adaptándome a requisitos en evolución y colaborando estrechamente con equipos de backend y producto.",
+                    "tags": ["Vue.js", "Next.js", "TypeScript", "Style Components"]
+                },
+                "pt": {
+                    "title": "Front-End Developer",
+                    "description": "• Colaborei em equipas multifuncionais para projetar e implementar soluções frontend escaláveis para grandes plataformas do setor público utilizando frameworks modernos (React, TypeScript, Vue 3). </br>• Desenvolvi e mantive micro-frontends, integrando-os perfeitamente com aplicações principais e serviços backend. </br>• Aproveitei serviços gerados pelo OpenAPI para uma integração robusta de APIs, garantindo bases de código escaláveis e fáceis de manter. </br>• Construí fluxos de trabalho de formulários complexos, interfaces orientadas por dados e simuladores interativos, com foco na acessibilidade e na experiência do utilizador. </br>• Apliquei as melhores práticas no desenvolvimento de interfaces de utilizador, incluindo design responsivo, reutilização de componentes e gestão eficiente de estado. </br>• Contribuí tanto para as funcionalidades principais da plataforma como para módulos especializados, adaptando-me a requisitos em evolução e colaborando de perto com as equipas de backend e produto.",
+                    "tags": ["Vue.js", "React.js", "Next.js", "TypeScript", "Style Components"]
                 }
             }
         }
