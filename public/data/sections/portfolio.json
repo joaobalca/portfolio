@@ -200,7 +200,7 @@
                 "logoUrl": "images/portfolio/growbiz.png",
                 "locales": {
                     "en": {
-                        "description": "<b>Growbiz</b> is a project that i developed a project together with a colleague in order to further develop knowledge. In this project we used Vue 3 for the Front-End and Express.js for the Back-End. We used MongoDb as a database. The project consists of a web application where we have the option to list rooms or houses, make the reservation and the respective payment (payments with Stripe). We can also book guided tours and sell products (using Stripe). We also have a management panel to enter and manage the information displayed in the application.",
+                        "description": "<b>Growbiz</b> is a project that i developed together with a colleague in order to further develop knowledge. In this project we used Vue 3 for the Front-End and Express.js for the Back-End. We used MongoDb as a database. The project consists of a web application where we have the option to list rooms or houses, make the reservation and the respective payment (payments with Stripe). We can also book guided tours and sell products (using Stripe). We also have a management panel to enter and manage the information displayed in the application.",
                         "tags": ["Vue.js", "Bootstrap", "Express.js", "MongoDB"]
                     },
                     "es": {
