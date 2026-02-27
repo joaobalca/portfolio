@@ -214,9 +214,9 @@
                 "faIcon": "fab fa-bootstrap",
                 "value": 90,
                 "locales": {
-                    "en": {"title": "Bootstrap", "description": "Experience Time: 4 years"},
-                    "es": {"title": "Bootstrap", "description": "Experiencia: 4 años"},
-                    "pt": {"title": "Bootstrap", "description": "Experiência: 4 anos"}
+                    "en": {"title": "Bootstrap", "description": "Experience Time: 5 years"},
+                    "es": {"title": "Bootstrap", "description": "Experiencia: 5 años"},
+                    "pt": {"title": "Bootstrap", "description": "Experiência: 5 anos"}
                 }
             },
 
@@ -225,42 +225,42 @@
                 "faIcon": "fab fa-js-square",
                 "value": 85,
                 "locales": {
-                    "en": {"title": "JavaScript", "description": "Experience Time: 4 years"},
-                    "es": {"title": "JavaScript", "description": "Experiencia: 4 años"},
-                    "pt": {"title": "JavaScript", "description": "Experiência: 4 anos"}
+                    "en": {"title": "JavaScript", "description": "Experience Time: 5 years"},
+                    "es": {"title": "JavaScript", "description": "Experiencia: 5 años"},
+                    "pt": {"title": "JavaScript", "description": "Experiência: 5 anos"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-vuejs",
-                "value": 85,
+                "value": 90,
                 "locales": {
-                    "en": {"title": "Vue.js", "description": "Experience Time: 4 years"},
-                    "es": {"title": "Vue.js", "description": "Experiencia: 4 años"},
-                    "pt": {"title": "Vue.js", "description": "Experiência: 4 anos"}
+                    "en": {"title": "Vue.js", "description": "Experience Time: 5 years"},
+                    "es": {"title": "Vue.js", "description": "Experiencia: 5 años"},
+                    "pt": {"title": "Vue.js", "description": "Experiência: 5 anos"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-react",
-                "value": 65,
+                "value": 75,
                 "locales": {
-                    "en": {"title": "React", "description": "Certification in Front-End Application Development with React by IBM<br>Experience time: 2 year"},
-                    "es": {"title": "React", "description": "Certificación en Desarrollo de Aplicaciones Front-End con React por IBM<br>Experiencia: 2 año"},
-                    "pt": {"title": "React", "description": "Certificação em Desenvolvimento de Aplicações Front-End com React pela IBM<br>Experiência: 2 ano"}
+                    "en": {"title": "React", "description": "Certification in Front-End Application Development with React by IBM<br>Experience time: 3 year"},
+                    "es": {"title": "React", "description": "Certificación en Desarrollo de Aplicaciones Front-End con React por IBM<br>Experiencia: 3 año"},
+                    "pt": {"title": "React", "description": "Certificação em Desenvolvimento de Aplicações Front-End com React pela IBM<br>Experiência: 3 ano"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-node-js",
-                "value": 40,
+                "value": 50,
                 "locales": {
-                    "en": {"title": "Node.js", "description": "Certification in Developing Back-End Apps with Node.js and Express by IBM<br>Experience Time: 6 months"},
-                    "es": {"title": "Node.js", "description": "Certificación en Desarrollo de Aplicaciones Back-End con Node.js y Express por IBM<br>Experiencia: 6 meses"},
-                    "pt": {"title": "Node.js", "description": "Certificação em Desenvolvimento de Aplicações Back-End com Node.js e Express pela IBM<br>Experiência: 6 meses"}
+                    "en": {"title": "Node.js", "description": "Certification in Developing Back-End Apps with Node.js and Express by IBM<br>Experience Time: 8 months"},
+                    "es": {"title": "Node.js", "description": "Certificación en Desarrollo de Aplicaciones Back-End con Node.js y Express por IBM<br>Experiencia: 8 meses"},
+                    "pt": {"title": "Node.js", "description": "Certificação em Desenvolvimento de Aplicações Back-End com Node.js e Express pela IBM<br>Experiência: 8 meses"}
                 }
             },
 
@@ -269,9 +269,9 @@
                 "faIcon": "fab fa-microsoft",
                 "value": 85,
                 "locales": {
-                    "en": {"title": "Azure DevOps", "description": "Experience time: 4 years"},
-                    "es": {"title": "Azure DevOps", "description": "Experiencia: 4 años"},
-                    "pt": {"title": "Azure DevOps", "description": "Experiência: 4 anos"}
+                    "en": {"title": "Azure DevOps", "description": "Experience time: 5 years"},
+                    "es": {"title": "Azure DevOps", "description": "Experiencia: 5 años"},
+                    "pt": {"title": "Azure DevOps", "description": "Experiência: 5 anos"}
                 }
             }
         ],

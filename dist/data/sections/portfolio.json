@@ -146,6 +146,63 @@
                         "tags": ["Vue.js", "Bootstrap", "Three.js", "Integração de uma REST API"]
                     }
                 }
+            },
+            {
+                "id": "mcdonalds",
+                "title": "McDonald's Portugal",
+                "logoUrl": "images/portfolio/mcdonalds.png",
+                "locales": {
+                    "en": {
+                        "description": "<b>MacTrack</b> is a personalized video generation platform developed for McDonald's. This Vue 3 + TypeScript web application allows users to generate custom videos based on their listening history through an intuitive interface integrated with the McDonald's MyAccount system. The application features smooth animations using Lottie, responsive carousel functionality with Swiper, and a modern SCSS-based component design. The project demonstrates proficiency in building cross-platform communication systems, utilizing custom bridge scripts to establish seamless real-time communication between the web application and the McDonald's mobile ecosystem.",
+                        "tags": ["Vue 3", "TypeScript", "Vue Router", "Vite", "SCSS", "Lottie", "Swiper", "Authentication"]
+                    },
+                    "es": {
+                        "description": "<b>MacTrack</b> es una plataforma de generación de videos personalizada desarrollada para McDonald's. Esta aplicación web Vue 3 + TypeScript permite a los usuarios generar videos personalizados basados en su historial de escucha a través de una interfaz intuitiva integrada con el sistema McDonald's MyAccount. La aplicación presenta animaciones fluidas utilizando Lottie, funcionalidad de carrusel receptivo con Swiper y un diseño de componentes moderno basado en SCSS. El proyecto demuestra competencia en la construcción de sistemas de comunicación multiplataforma, utilizando scripts de puente personalizados para establecer una comunicación en tiempo real sin problemas entre la aplicación web y el ecosistema móvil de McDonald's.",
+                        "tags": ["Vue 3", "TypeScript", "Vue Router", "Vite", "SCSS", "Lottie", "Swiper", "Autenticación"]
+                    },
+                    "pt": {
+                        "description": "<b>MacTrack</b> é uma plataforma de geração de vídeos personalizada desenvolvida para McDonald's. Esta aplicação web Vue 3 + TypeScript permite aos utilizadores gerar vídeos personalizados com base no seu histórico de audição através de uma interface intuitiva integrada ao sistema McDonald's MyAccount. A aplicação apresenta animações fluidas usando Lottie, funcionalidade de carrossel responsiva com Swiper e um design moderno de componentes baseado em SCSS. O projeto demonstra proficiência na construção de sistemas de comunicação multiplataforma, utilizando scripts de ponte personalizados para estabelecer uma comunicação em tempo real perfeita entre a aplicação web e o ecossistema móvel do McDonald's.",
+                        "tags": ["Vue 3", "TypeScript", "Vue Router", "Vite", "SCSS", "Lottie", "Swiper", "Autenticação"]
+                    }
+                }
+            },
+            {
+                "id": "continente",
+                "title": "Continente",
+                "logoUrl": "images/portfolio/continente.png",
+                "locales": {
+                    "en": {
+                        "description": "<b>Continente Roast of the Year</b> is an interactive Vue 3 web application that generates personalized annual review videos for Cartão Continente users. Built with TypeScript and Vite, the application features a 12-step journey where users authenticate via token and explore their customized video content. The platform includes responsive design with Lottie animations, Swiper carousel navigation, and adaptive video delivery for mobile and desktop devices. Users can also share their personalized experience with others through an integrated sharing feature.",
+                        "tags": ["Vue 3", "TypeScript", "Vite", "Swiper.js", "Lottie Animations", "SCSS", "Vue Router", "Responsive Design"]
+                    },
+                    "es": {
+                        "description": "<b>Continente Roast del Año</b> es una aplicación web interactiva desarrollada con Vue 3 que genera videos de revisión anual personalizados para los usuarios de Cartão Continente. Construida con TypeScript y Vite, la aplicación presenta un viaje de 12 pasos donde los usuarios se autentican mediante token y exploran su contenido de video personalizado. La plataforma incluye diseño responsivo con animaciones Lottie, navegación de carrusel Swiper y entrega de video adaptativo para dispositivos móviles y de escritorio. Los usuarios también pueden compartir su experiencia personalizada con otros a través de una función de intercambio integrada.",
+                        "tags": ["Vue 3", "TypeScript", "Vite", "Swiper.js", "Animaciones Lottie", "SCSS", "Vue Router", "Diseño Responsivo"]
+                    },
+                    "pt": {
+                        "description": "<b>Continente Roast do Ano</b> é uma aplicação web interativa desenvolvida com Vue 3 que gera vídeos personalizados de revisão anual para utilizadores do Cartão Continente. Construída com TypeScript e Vite, a aplicação apresenta uma jornada de 12 passos onde os utilizadores se autenticam através de um token e exploram o seu conteúdo de vídeo personalizado. A plataforma inclui design responsivo com animações Lottie, navegação de carrossel Swiper e entrega de vídeo adaptativa para dispositivos móveis e desktop. Os utilizadores podem também partilhar a sua experiência personalizada com outros através de uma funcionalidade de partilha integrada.",
+                        "tags": ["Vue 3", "TypeScript", "Vite", "Swiper.js", "Animações Lottie", "SCSS", "Vue Router", "Design Responsivo"]
+                    }
+                }
+            },
+            {
+                "id": "segurancaSocial",
+                "title": "Segurança Social",
+                "logoUrl": "images/portfolio/segurancaSocial.png",
+                "locales": {
+                    "en": {
+                        "description": "<b>Segurança Social</b> is a large-scale public sector platform where I collaborated in cross-functional teams to design and implement scalable frontend solutions. This Vue 3 application leverages micro-frontend architecture with Styled Components for modular and easy-to-maintain styling. I developed interactive simulators that help citizens calculate pensions, understand their benefits, and other matters. This was a major step forward in this sector as it helped transform complex calculations into intuitive and easy-to-use tools. The project features complex form flows, data-driven interfaces, and advanced state management using Pinia. I contributed to building responsive and accessible components with reusable design patterns.",
+                        "tags": ["Vue 3", "TypeScript", "Micro-Frontends", "Styled Components", "Pinia", "OpenAPI", "REST API Integration"]
+                    },
+                    "es": {
+                        "description": "<b>Segurança Social</b> Es una plataforma a gran escala del sector público en la que colaboré en equipos multifuncionales para diseñar e implementar soluciones frontend escalables. Esta aplicación Vue 3 aprovecha la arquitectura de microfrontends con Styled Components para un estilo modular y fácil de mantener. Desarrollé simuladores interactivos que ayudan a los ciudadanos a calcular sus pensiones, comprender sus prestaciones, entre otros asuntos. Esto supuso un gran avance en este sector, ya que ayudó a transformar cálculos complejos en herramientas intuitivas y fáciles de usar. El proyecto presenta flujos de formularios complejos, interfaces orientadas a datos y gestión avanzada del estado utilizando Pinia. Contribuí a la construcción de componentes responsivos y accesibles con patrones de diseño reutilizables.",
+                        "tags": ["Vue 3", "TypeScript", "Micro-Frontends", "Styled Components", "Pinia", "OpenAPI", "Integración de REST API"]
+                    },
+                    "pt": {
+                        "description": "<b>Segurança Social</b> é uma plataforma de grande escala do setor público onde colaborei em equipas multifuncionais para desenhar e implementar soluções frontend escaláveis. Esta aplicação Vue 3 aproveita arquitetura de micro-frontends com Styled Components para estilo modular e de fácil manutenção. Desenvolvi simuladores interativos que ajudam os cidadãos a calcular pensões, compreender seus benefícios, entre outros assuntos. Isto foi um grande passo neste setor pois ajudou a transformar cálculos complexos em ferramentas intuitivas e fáceis de usar. O projeto apresenta fluxos de formulários complexos, interfaces orientadas a dados, e gestão de estado avançada usando Pinia. Contribuí para a construção de componentes responsivos e acessíveis com padrões de design reutilizáveis.",
+                        "tags": ["Vue 3", "TypeScript", "Micro-Frontends", "Styled Components", "Pinia", "OpenAPI", "Integração de REST API"]
+                    }
+                }
             }   
         ],
 
@@ -191,7 +248,7 @@
                     }
                 }
             }
-        ],
+         ],
 
         "personalProjects": [
             {
