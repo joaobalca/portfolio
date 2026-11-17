@@ -39,9 +39,9 @@
             "subject": "Subject",
             "tags": "Tags",
             "whereToFind": "Where to Find",
-            "whereToFindDescription": "${project} is available on the following platforms and services:"
+            "whereToFindDescription": "${project} is available on the following platforms and services:",
+            "screenshots": "Screenshots"
         },
-
         "es": {
             "about": "Acerca de",
             "aboutProject": "Acerca del Proyecto",
@@ -81,9 +81,9 @@
             "subject": "Asunto",
             "tags": "Etiquetas",
             "whereToFind": "Dónde Encontrarlo",
-            "whereToFindDescription": "${project} está disponible en las siguientes plataformas y servicios:"
+            "whereToFindDescription": "${project} está disponible en las siguientes plataformas y servicios:",
+            "screenshots": "Capturas"
         },
-
         "pt": {
             "about": "Sobre",
             "aboutProject": "Sobre o Projeto",
@@ -123,7 +123,8 @@
             "subject": "Assunto",
             "tags": "Tags",
             "whereToFind": "Onde Encontrar",
-            "whereToFindDescription": "${project} está disponível nas seguintes plataformas e serviços:"
+            "whereToFindDescription": "${project} está disponível nas seguintes plataformas e serviços:",
+            "screenshots": "Capturas de ecrã"
         }
     }
 }
