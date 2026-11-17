@@ -104,6 +104,25 @@
                         "title": "Scrum Master Accredited Certification"
                     }
                 }
+            },
+            {
+                "id": "backendEngineering",
+                "place": "@link{places.udemy}",
+                "date": "2026/10",
+                "href": "https://ude.my/UC-edea4dc8-6da8-4329-a219-07a89cc44f60",
+                "locales": {
+                    "en": {
+                        "title": "Fundamentals of Backend Engineering"
+                    },
+
+                    "es": {
+                        "title": "Fundamentals of Backend Engineering"
+                    },
+
+                    "pt": {
+                        "title": "Fundamentals of Backend Engineering"
+                    }
+                }
             }
         ]
     }
