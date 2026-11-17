@@ -1,15 +1,18 @@
 <template>
     <SectionTemplate :section-data="props.sectionData">
         <div class="info-row row gx-4 gx-xl-5">
-            <div v-for="subcategory in props.sectionData['content']['subcategories']" class="col-12 subcategory-col">
-                <!-- Subcategory Title -->
-                <SubHeading v-if="subcategory['locales']['title']"
+            <div v-for="subcategory in props.sectionData['content']['subcategories']"
+                 class="col-12 subcategory-col"
+                 :class="{'subcategory-col-tags': subcategory['type'] === 'tags'}">
+                <!-- Subcategory Title (non-tag layouts keep the standard heading) -->
+                <SubHeading v-if="subcategory['locales']['title'] && subcategory['type'] !== 'tags'"
                             :title="subcategory['locales']['title']"
                             :fa-icon="subcategory['faIcon']"/>
 
                 <!-- Group Component -->
                 <component :is="_getComponentFor(subcategory)"
-                           :items="_fetchAndParseItemsFor(subcategory)"/>
+                           :items="_fetchAndParseItemsFor(subcategory)"
+                           :title="subcategory['type'] === 'tags' ? subcategory['locales']['title'] : undefined"/>
             </div>
         </div>
     </SectionTemplate>
@@ -109,12 +112,13 @@ const _fetchAndParseItemsFor = (subcategory) => {
     }
 }
 
-.subcategory-col:has(.info-tags) {
+.subcategory-col-tags {
     &:not(:last-child) {
-        @include generate-dynamic-styles-with-hash((
-            xxxl: (margin-bottom: 1.75rem),
-            md:   (margin-bottom: 1.25rem)
-        ));
+        margin-bottom: 0.7rem !important;
+
+        @include media-breakpoint-down(md) {
+            margin-bottom: 0.6rem !important;
+        }
     }
 }
 
