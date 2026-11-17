@@ -3,19 +3,19 @@
         "en": {
             "welcome": "Welcome to my <span class='text-primary'>Portfolio</span>",
             "welcomeShort": "Welcome!",
-            "bio": "I'm a Software Developer from Vila Real, Portugal, building web applications end to end, from user interfaces to APIs and databases. I've worked on large public-sector platforms, hospitality management tools and e-commerce with online payments, and lately I've been going deeper into backend engineering. My current focus is MealPlanner, an AI-powered meal planning app."
+            "bio": "I'm a Software Developer building web applications end to end, from user interfaces to APIs and databases. I've worked on large public-sector platforms, hospitality management tools and e-commerce with online payments."
         },
 
         "es": {
             "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>Portfolio</span>",
             "welcomeShort": "¡Saludos!",
-            "bio": "Soy un Desarrollador de Software de Vila Real, Portugal, y construyo aplicaciones web de extremo a extremo, desde interfaces de usuario hasta APIs y bases de datos. He trabajado en plataformas a gran escala del sector público, herramientas de gestión hotelera y comercio electrónico con pagos online, y últimamente he profundizado en la ingeniería de backend. Mi enfoque actual es MealPlanner, una aplicación de planificación de comidas con inteligencia artificial."
+            "bio": "Soy un Desarrollador de Software y construyo aplicaciones web de extremo a extremo, desde interfaces de usuario hasta APIs y bases de datos. He trabajado en plataformas a gran escala del sector público, herramientas de gestión hotelera y comercio electrónico con pagos online."
         },
 
         "pt": {
             "welcome": "Bem-vindo(a) ao meu <span class='text-primary'>Portfólio!</span>",
             "welcomeShort": "Bem-vindo!",
-            "bio": "Sou um Desenvolvedor de Software de Vila Real, Portugal, e construo aplicações web de ponta a ponta, desde interfaces de utilizador a APIs e bases de dados. Já trabalhei em plataformas de grande escala do setor público, ferramentas de gestão hoteleira e e-commerce com pagamentos online, e ultimamente tenho-me aprofundado em engenharia de backend. O meu foco atual é o MealPlanner, uma aplicação de planeamento de refeições com inteligência artificial."
+            "bio": "Sou um Desenvolvedor de Software e construo aplicações web de ponta a ponta, desde interfaces de utilizador a APIs e bases de dados. Já trabalhei em plataformas de grande escala do setor público, ferramentas de gestão hoteleira e e-commerce com pagamentos online."
         }
     },
 
