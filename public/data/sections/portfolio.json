@@ -46,7 +46,7 @@
             {
                 "id": "mealPlanner",
                 "title": "MealPlanner",
-                "logoUrl": "images/portfolio/mealplanner.webp",
+                "logoUrl": "images/portfolio/mealplanner.png",
                 "links": [
                     {"faIcon": "fa-solid fa-globe", "href": "https://meal-planner-tau-flame.vercel.app", "id": "webApplication"}
                 ],
