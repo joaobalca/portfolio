@@ -22,6 +22,7 @@ import SubHeading from "../_templates/SubHeading.vue"
 import InfoList from "./layouts/InfoList.vue"
 import InfoGrid from "./layouts/InfoGrid.vue"
 import InfoPie from "./layouts/InfoPie.vue"
+import InfoTags from "./layouts/InfoTags.vue"
 
 import {useLayout} from "../../../composables/layout.js"
 import {useUtils} from "../../../composables/utils.js"
@@ -45,6 +46,7 @@ const COMPONENTS_MAP = {
     grid: InfoGrid,
     pie: InfoPie,
     list: InfoList,
+    tags: InfoTags,
     fallback: InfoList
 }
 
@@ -69,7 +71,11 @@ const _getComponentFor = (subcategory) => {
  * @private
  */
 const _fetchAndParseItemsFor = (subcategory) => {
-    const items = props.sectionData['content']['items'][subcategory['id']]
+    const items = props.sectionData['content']['items'][subcategory['id']] || []
+
+    if(subcategory['type'] === 'tags') {
+        return items
+    }
 
     let colorIdCount = 0
     for(const item of items) {
@@ -99,6 +105,15 @@ const _fetchAndParseItemsFor = (subcategory) => {
         @include generate-dynamic-styles-with-hash((
             xxxl: (margin-bottom: 2.75rem),
             xl:   (margin-bottom: 1.5rem)
+        ));
+    }
+}
+
+.subcategory-col:has(.info-tags) {
+    &:not(:last-child) {
+        @include generate-dynamic-styles-with-hash((
+            xxxl: (margin-bottom: 1.75rem),
+            md:   (margin-bottom: 1.25rem)
         ));
     }
 }
