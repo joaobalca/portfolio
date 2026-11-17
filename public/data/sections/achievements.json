@@ -104,6 +104,26 @@
                         "title": "Scrum Master Accredited Certification"
                     }
                 }
+            },
+            {
+                "id": "backendEngineering",
+                "place": "@link{places.udemy}",
+                "date": "2026/10",
+                "href": "https://ude.my/UC-edea4dc8-6da8-4329-a219-07a89cc44f60",
+                "locales": {
+                    "en": {
+                        "title": "Fundamentals of Backend Engineering",
+                        "description": "Instructor: Hussein Nasser. Completed on 30 October 2026. Duration: 20 hours. Credential ID: UC-edea4dc8-6da8-4329-a219-07a89cc44f60."
+                    },
+                    "es": {
+                        "title": "Fundamentos de Ingeniería de Backend",
+                        "description": "Instructor: Hussein Nasser. Completado el 30 de octubre de 2026. Duración: 20 horas. ID de credencial: UC-edea4dc8-6da8-4329-a219-07a89cc44f60."
+                    },
+                    "pt": {
+                        "title": "Fundamentos de Engenharia de Backend",
+                        "description": "Instrutor: Hussein Nasser. Concluído a 30 de outubro de 2026. Duração: 20 horas. ID da credencial: UC-edea4dc8-6da8-4329-a219-07a89cc44f60."
+                    }
+                }
             }
         ]
     }

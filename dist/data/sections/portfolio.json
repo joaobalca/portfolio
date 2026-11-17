@@ -44,6 +44,28 @@
     "items": {
         "webApplications": [
             {
+                "id": "mealPlanner",
+                "title": "MealPlanner",
+                "logoUrl": "images/portfolio/mealplanner.webp",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://meal-planner-tau-flame.vercel.app", "id": "webApplication"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>MealPlanner</b> is an AI-powered meal planning web app and PWA. Users plan weekly meals, save and import recipes from URLs or photos, get AI recipe suggestions with AI-generated photos, translate recipes and manage shopping. It is built with Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS v4 and shadcn/ui, with next-intl for English and Portuguese. Supabase provides Postgres with row-level security, Auth, Storage and Edge Functions in Deno. OpenAI generates text and images, and the Spoonacular API supplies recipe data. Suggestions return preview cards in about three seconds, with three angles per search: classic, lighter and creative, plus a generated image for each recipe. The interface is bilingual and mobile-first, with a warm Hearth design and dark mode. The app is deployed on Vercel with GitHub Actions CI.",
+                        "tags": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Supabase", "OpenAI", "PWA"]
+                    },
+                    "es": {
+                        "description": "<b>MealPlanner</b> es una aplicación web y PWA de planificación de comidas con inteligencia artificial. Los usuarios planifican las comidas de la semana, guardan e importan recetas desde URLs o fotos, reciben sugerencias de recetas con fotos generadas por IA, traducen recetas y gestionan la compra. Está hecha con Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS v4 y shadcn/ui, y traducida con next-intl al inglés y al portugués. Supabase aporta Postgres con seguridad a nivel de fila, Auth, Storage y Edge Functions en Deno. OpenAI genera texto e imágenes, y la API de Spoonacular aporta datos de recetas. Las sugerencias devuelven tarjetas de vista previa en unos tres segundos, con tres enfoques por búsqueda: clásico, más ligero y creativo, y una imagen generada para cada receta. La interfaz es bilingüe y mobile-first, con un diseño cálido llamado Hearth y modo oscuro. Está desplegada en Vercel con CI en GitHub Actions.",
+                        "tags": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Supabase", "OpenAI", "PWA"]
+                    },
+                    "pt": {
+                        "description": "<b>MealPlanner</b> é uma aplicação web e PWA de planeamento de refeições com inteligência artificial. Os utilizadores planeiam as refeições da semana, guardam e importam receitas a partir de URLs ou fotos, recebem sugestões de receitas com fotos geradas por IA, traduzem receitas e gerem as compras. Foi desenvolvida com Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS v4 e shadcn/ui, e traduzida com next-intl em inglês e português. O Supabase fornece Postgres com segurança ao nível da linha, Auth, Storage e Edge Functions em Deno. A OpenAI gera texto e imagens, e a API Spoonacular fornece dados de receitas. As sugestões devolvem cartões de pré-visualização em cerca de três segundos, com três abordagens por pesquisa: clássica, mais leve e criativa, e uma imagem gerada para cada receita. A interface é bilingue e mobile-first, com um design quente chamado Hearth e modo escuro. A aplicação está publicada na Vercel com CI no GitHub Actions.",
+                        "tags": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Supabase", "OpenAI", "PWA"]
+                    }
+                }
+            },
+            {
                 "id": "wilddouro",
                 "title": "Wilddouro",
                 "logoUrl": "images/portfolio/wilddouro.svg",

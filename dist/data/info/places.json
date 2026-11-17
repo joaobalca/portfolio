@@ -6,6 +6,14 @@
             "en": {"name": "Coursera"}
         }
     },
+    "udemy": {
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Udemy"},
+            "es": {"name": "Udemy"},
+            "pt": {"name": "Udemy"}
+        }
+    },
     "internationalScrumInstitute": {
         "logoUrl": "images/places/logo-coursera.png",
         "faIcon": "fa fa-house-laptop",
