@@ -114,10 +114,10 @@ const _fetchAndParseItemsFor = (subcategory) => {
 
 .subcategory-col-tags {
     &:not(:last-child) {
-        margin-bottom: 0.7rem !important;
+        margin-bottom: 0.85rem !important;
 
         @include media-breakpoint-down(md) {
-            margin-bottom: 0.6rem !important;
+            margin-bottom: 0.75rem !important;
         }
     }
 }

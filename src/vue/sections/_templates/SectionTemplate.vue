@@ -61,6 +61,10 @@ const classList = computed(() => {
         classList += ' section-cover'
     }
 
+    if(props.sectionData['compact']) {
+        classList += ' section-compact'
+    }
+
     return classList
 })
 
@@ -98,6 +102,37 @@ const sectionTitle = computed(() => {
             .section-container {
                 margin: auto 0;
             }
+        }
+    }
+
+    /*
+     * Compact sections (e.g. Skills) skip the full-viewport min-height and
+     * use tighter vertical padding so short content does not leave large gaps.
+     */
+    &-compact {
+        min-height: 0;
+
+        @include media-breakpoint-down($navigation-sidebar-breakpoint) {
+            min-height: 0;
+        }
+
+        .section-container {
+            @include generate-dynamic-styles-with-hash((
+                xxxl: (padding: 2.75rem clamp(5rem, 5vw, 10rem) 3rem),
+                xxl:  (padding: 2.25rem 4rem 2.5rem),
+                lg:   (padding: 1.75rem 2rem 2rem),
+                md:   (padding: 1.35rem 1.5rem 1.6rem),
+                sm:   (padding: 1.25rem 1.2rem 1.75rem)
+            ));
+        }
+
+        .section-header {
+            @include generate-dynamic-styles-with-hash((
+                xxxl: (margin-bottom: 1.5rem),
+                xxl:  (margin-bottom: 1.25rem),
+                xl:   (margin-bottom: 1.1rem),
+                lg:   (margin-bottom: 1rem),
+            ));
         }
     }
 }
