@@ -44,7 +44,8 @@
             "categoryId": "showcase",
             "component": "InfoSection",
             "jsonPath": "data/sections/skills.json",
-            "faIcon": "fa-solid fa-tools"
+            "faIcon": "fa-solid fa-tools",
+            "compact": true
         },
 
         {

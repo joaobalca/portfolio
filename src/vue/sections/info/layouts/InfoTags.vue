@@ -45,16 +45,17 @@ const _labelFor = (item) => {
 .info-tags-group {
     display: flex;
     flex-direction: column;
-    gap: 0.28rem;
+    gap: 0.45rem;
 }
 
 .info-tags-label {
     margin: 0;
-    letter-spacing: 0.06em;
-    font-size: 0.68rem;
-    font-weight: 500;
-    line-height: 1.2;
-    color: $light-6 !important;
+    letter-spacing: 0.08em;
+    font-size: 0.7rem;
+    font-weight: 600;
+    line-height: 1.25;
+    /* Muted brand accent — distinct from chip text without becoming a heading */
+    color: mix($primary, $light-7, 42%) !important;
 }
 
 .info-tags {

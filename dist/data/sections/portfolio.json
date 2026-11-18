@@ -175,44 +175,6 @@
                 }
             },
             {
-                "id": "numao",
-                "title": "Cooperativa Freixo de Numao",
-                "logoUrl": "images/portfolio/numao.png",
-                "links": [
-                    {
-                        "faIcon": "fa-solid fa-globe",
-                        "href": "https://www.cfnumao.com/",
-                        "id": "webApplication"
-                    }
-                ],
-                "locales": {
-                    "en": {
-                        "description": "<b>Cooperativa Freixo de Numao</b> is a cooperative that produces oil, wine and liquors. This web application was developed from scratch using the JavaScript framework Vue.js and the CSS framework Bootstrap. All content is managed through an administration panel also made in Vue.js. Making requests to the REST API.",
-                        "tags": [
-                            "Vue.js",
-                            "Bootstrap",
-                            "REST API Integration"
-                        ]
-                    },
-                    "es": {
-                        "description": "<b>Cooperativa Freixo de Numao</b> es una cooperativa que produce aceite, vino y licores. Esta aplicación web fue desarrollada de raíz utilizando la framework de JavaScript, Vue.js y la framework de CSS, Bootstrap. Todo el contenido es gestionado a través de un panel de administración hecho también en Vue.js. Haciendo peticiones a la REST API.",
-                        "tags": [
-                            "Vue.js",
-                            "Bootstrap",
-                            "Integracion de una REST API"
-                        ]
-                    },
-                    "pt": {
-                        "description": "<b>Cooperativa Freixo de Numao</b> é uma cooperativa que produz azeite, vinho e licores. Esta aplicação web foi desenvolvida de raíz utilizando a framework de JavaScript, Vue.js e a framework de CSS, Bootstrap. Todo o conteúdo é gerido através de um painel de administração feito também em Vue.js. Na mesma temos acesso a páginas informativas sobre a cooperativa, os produtos que produzem entre outras. Tem também uma secção destinada aos clientes poderem aceder a dados sobre as suas vendas de produtos à cooperativa.",
-                        "tags": [
-                            "Vue.js",
-                            "Bootstrap",
-                            "Integração de uma REST API"
-                        ]
-                    }
-                }
-            },
-            {
                 "id": "mindBoard",
                 "title": "Mindboard",
                 "logoUrl": "images/portfolio/mindboard.svg",
