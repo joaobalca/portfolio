@@ -156,10 +156,14 @@
                         "React.js",
                         "Next.js",
                         "TypeScript",
-                        "Style Components",
-                        "Ngrok",
-                        "ASP NET Core basics",
-                        "TanStack Query"
+                        "Micro-frontends",
+                        "ASP.NET Core",
+                        "C#",
+                        "Clean Architecture / DDD",
+                        "Azure Functions",
+                        "Azure DevOps (CI/CD)",
+                        "REST APIs",
+                        "DocuSign"
                     ]
                 },
                 "es": {
@@ -167,12 +171,17 @@
                     "description": "• Colaboré en equipos multifuncionales para diseñar e implementar soluciones frontend escalables para grandes plataformas del sector público utilizando frameworks modernos (React, TypeScript, Vue 3). </br>• Desarrollé y mantuve micro-frontends, integrándolos perfectamente con aplicaciones principales y servicios backend. </br>• Aproveché servicios generados por OpenAPI para una integración robusta de API, asegurando bases de código escalables y mantenibles. </br>• Construí flujos de trabajo de formularios complejos, interfaces basadas en datos y simuladores interactivos, enfocándome en la accesibilidad y la experiencia del usuario. </br>• Apliqué mejores prácticas en el desarrollo de interfaces de usuario, incluyendo diseño responsivo, reutilización de componentes y gestión eficiente del estado. </br>• Contribuí tanto a las características principales de la plataforma como a módulos especializados, adaptándome a requisitos en evolución y colaborando estrechamente con equipos de backend y producto. </br>• Gestioné el estado de la aplicación con Pinia e integré servicios backend a través de ngrok para desarrollo local </br>• Implementé animaciones y transiciones personalizadas para mejorar la experiencia del usuario, </br> • Desarrollé endpoints backend en .NET junto con el frontend Next.js utilizando TanStack para la gestión y consulta de datos</br>• Trabajo en una plataforma de negocio interna construida como un monorepo de micro-frontends en React + TypeScript, con un backend en ASP.NET Core (Clean Architecture / DDD), Azure Functions y CI/CD en Azure DevOps.</br>• Un CRM para gestionar cuentas de clientes, consultores, interacciones, necesidades y disponibilidad de consultores, con notificaciones en tiempo real.</br>• Un módulo de administración de RR. HH. que cubre el pipeline de onboarding de empleados (admisión de candidatos, recogida de documentos, generación de contratos con firma DocuSign), modificaciones y finalizaciones de contratos.</br>• Una herramienta de simulación financiera para proyectos de consultoría que calcula compensaciones, honorarios y costes, genera propuestas en PDF y las envía por email a candidatos con consentimiento GDPR y verificación de identidad.</br>• Gestión de usuarios con organigramas y jerarquías.",
                     "tags": [
                         "Vue.js",
+                        "React.js",
                         "Next.js",
                         "TypeScript",
-                        "Style Components",
-                        "Ngrok",
-                        "ASP NET Core basics",
-                        "TanStack Query"
+                        "Micro-frontends",
+                        "ASP.NET Core",
+                        "C#",
+                        "Clean Architecture / DDD",
+                        "Azure Functions",
+                        "Azure DevOps (CI/CD)",
+                        "REST APIs",
+                        "DocuSign"
                     ]
                 },
                 "pt": {
@@ -183,10 +192,14 @@
                         "React.js",
                         "Next.js",
                         "TypeScript",
-                        "Style Components",
-                        "Ngrok",
-                        "ASP NET Core basics",
-                        "TanStack Query"
+                        "Micro-frontends",
+                        "ASP.NET Core",
+                        "C#",
+                        "Clean Architecture / DDD",
+                        "Azure Functions",
+                        "Azure DevOps (CI/CD)",
+                        "REST APIs",
+                        "DocuSign"
                     ]
                 }
             }
