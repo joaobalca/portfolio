@@ -13,7 +13,6 @@
             "description": "Tecnologias e práticas com que trabalho ao longo do stack."
         }
     },
-
     "subcategories": [
         {
             "id": "languages",
@@ -21,9 +20,15 @@
             "progress": null,
             "faIcon": "fa fa-code",
             "locales": {
-                "en": {"title": "Languages"},
-                "es": {"title": "Lenguajes"},
-                "pt": {"title": "Linguagens"}
+                "en": {
+                    "title": "Languages"
+                },
+                "es": {
+                    "title": "Lenguajes"
+                },
+                "pt": {
+                    "title": "Linguagens"
+                }
             }
         },
         {
@@ -32,9 +37,15 @@
             "progress": null,
             "faIcon": "fa fa-desktop",
             "locales": {
-                "en": {"title": "Frontend"},
-                "es": {"title": "Frontend"},
-                "pt": {"title": "Frontend"}
+                "en": {
+                    "title": "Frontend"
+                },
+                "es": {
+                    "title": "Frontend"
+                },
+                "pt": {
+                    "title": "Frontend"
+                }
             }
         },
         {
@@ -43,9 +54,15 @@
             "progress": null,
             "faIcon": "fa fa-database",
             "locales": {
-                "en": {"title": "Backend & Data"},
-                "es": {"title": "Backend y Datos"},
-                "pt": {"title": "Backend e Dados"}
+                "en": {
+                    "title": "Backend & Data"
+                },
+                "es": {
+                    "title": "Backend y Datos"
+                },
+                "pt": {
+                    "title": "Backend e Dados"
+                }
             }
         },
         {
@@ -54,9 +71,15 @@
             "progress": null,
             "faIcon": "fa fa-screwdriver-wrench",
             "locales": {
-                "en": {"title": "Tools & DevOps"},
-                "es": {"title": "Herramientas y DevOps"},
-                "pt": {"title": "Ferramentas e DevOps"}
+                "en": {
+                    "title": "Tools & DevOps"
+                },
+                "es": {
+                    "title": "Herramientas y DevOps"
+                },
+                "pt": {
+                    "title": "Ferramentas e DevOps"
+                }
             }
         },
         {
@@ -65,57 +88,266 @@
             "progress": null,
             "faIcon": "fa fa-sitemap",
             "locales": {
-                "en": {"title": "Practices"},
-                "es": {"title": "Prácticas"},
-                "pt": {"title": "Práticas"}
+                "en": {
+                    "title": "Practices"
+                },
+                "es": {
+                    "title": "Prácticas"
+                },
+                "pt": {
+                    "title": "Práticas"
+                }
             }
         }
     ],
-
     "items": {
         "languages": [
-            {"locales": {"en": {"title": "JavaScript"}}},
-            {"locales": {"en": {"title": "TypeScript"}}},
-            {"locales": {"en": {"title": "C# (basics)"}}},
-            {"locales": {"en": {"title": "PHP (basics)"}}}
+            {
+                "locales": {
+                    "en": {
+                        "title": "JavaScript"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "TypeScript"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "C#"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "PHP"
+                    }
+                }
+            }
         ],
         "frontend": [
-            {"locales": {"en": {"title": "Vue.js"}}},
-            {"locales": {"en": {"title": "Vuex"}}},
-            {"locales": {"en": {"title": "Pinia"}}},
-            {"locales": {"en": {"title": "Vue Router"}}},
-            {"locales": {"en": {"title": "Nuxt.js"}}},
-            {"locales": {"en": {"title": "React"}}},
-            {"locales": {"en": {"title": "Next.js"}}},
-            {"locales": {"en": {"title": "TanStack Query"}}},
-            {"locales": {"en": {"title": "Three.js"}}},
-            {"locales": {"en": {"title": "Tailwind CSS"}}},
-            {"locales": {"en": {"title": "Bootstrap"}}},
-            {"locales": {"en": {"title": "CSS"}}}
+            {
+                "locales": {
+                    "en": {
+                        "title": "Vue.js"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Vuex"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Pinia"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Vue Router"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Nuxt.js"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "React"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Next.js"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "TanStack Query"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Three.js"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Tailwind CSS"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Bootstrap"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "CSS"
+                    }
+                }
+            }
         ],
         "backendData": [
-            {"locales": {"en": {"title": "Node.js / Express"}}},
-            {"locales": {"en": {"title": "ASP.NET Core (basics)"}}},
-            {"locales": {"en": {"title": "REST APIs"}}},
-            {"locales": {"en": {"title": "OpenAPI"}}},
-            {"locales": {"en": {"title": "MongoDB"}}},
-            {"locales": {"en": {"title": "PostgreSQL"}}},
-            {"locales": {"en": {"title": "Supabase"}}},
-            {"locales": {"en": {"title": "Stripe"}}}
+            {
+                "locales": {
+                    "en": {
+                        "title": "Node.js / Express"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "ASP.NET Core"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "REST APIs"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "OpenAPI"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "MongoDB"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "PostgreSQL"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Supabase"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Stripe"
+                    }
+                }
+            }
         ],
         "toolsDevops": [
-            {"locales": {"en": {"title": "Git (GitHub/GitLab)"}}},
-            {"locales": {"en": {"title": "Azure DevOps"}}},
-            {"locales": {"en": {"title": "Docker (basics)"}}},
-            {"locales": {"en": {"title": "Vercel"}}},
-            {"locales": {"en": {"title": "SonarQube"}}},
-            {"locales": {"en": {"title": "Postman"}}},
-            {"locales": {"en": {"title": "Jest"}}},
-            {"locales": {"en": {"title": "Ngrok"}}}
+            {
+                "locales": {
+                    "en": {
+                        "title": "Git (GitHub/GitLab)"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Azure DevOps"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Docker"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Vercel"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "SonarQube"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Postman"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Jest"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Ngrok"
+                    }
+                }
+            }
         ],
         "practices": [
-            {"locales": {"en": {"title": "Agile (Scrum, SAFe)"}}},
-            {"locales": {"en": {"title": "Unity (basics)"}}}
+            {
+                "locales": {
+                    "en": {
+                        "title": "Agile (Scrum, SAFe)"
+                    }
+                }
+            },
+            {
+                "locales": {
+                    "en": {
+                        "title": "Unity"
+                    }
+                }
+            }
         ]
     }
 }
